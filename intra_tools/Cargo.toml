@@ -1,0 +1,10 @@
+[package]
+name = "intra_tools"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+api42_rust_lib = { path = "../api42_rust_lib" }
+tokio = { version = "1", features = ["full"] }
+serde_json = "1.0.140"
+futures = "0.3.31"

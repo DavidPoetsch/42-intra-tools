@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "api42_rust_lib",
+    "intra_tools"
+]
+resolver = "2"
