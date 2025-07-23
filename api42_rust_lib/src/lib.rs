@@ -6,7 +6,7 @@
 /*   By: dpotsch <poetschdavid@gmail.com>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/06/26 19:22:16 by dpotsch           #+#    #+#             */
-/*   Updated: 2025/06/29 20:20:22 by dpotsch          ###   ########.fr       */
+/*   Updated: 2025/07/23 13:48:28 by dpotsch          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -224,6 +224,8 @@ impl Intra42Api {
       .map_err(|_| Intra42ApiError::FailedToParseXPerPage)?;
 
     let total_pages = (total + per_page - 1) / per_page;
+
+    println!("X-Total: {total}, X-Per-Page: {per_page}, = {total_pages} pages");
     Ok(total_pages)
   }
 

@@ -6,10 +6,12 @@
 /*   By: dpotsch <poetschdavid@gmail.com>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/06/28 15:22:08 by dpotsch           #+#    #+#             */
-/*   Updated: 2025/06/29 20:08:23 by dpotsch          ###   ########.fr       */
+/*   Updated: 2025/07/23 14:35:56 by dpotsch          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+use crate::utils::flatten_json_arrays;
+use crate::utils::write_json_to_file;
 use api42_rust_lib::{params::Params, Intra42Api};
 use serde_json::Value;
 use std::fs::File;
@@ -31,36 +33,9 @@ fn sort_by_project(data: &mut Vec<Value>) {
   });
 }
 
-fn flatten_json_arrays(data: &[Value]) -> Value {
-  let mut combined = Vec::new();
-
-  for val in data {
-    if let Value::Array(items) = val {
-      combined.extend(items.clone());
-    }
-  }
-  Value::Array(combined)
-}
-
-fn write_raw_data(data: &Value) {
-  let file_raw = File::create("rawout.json");
-  if file_raw.is_err() {
-    return;
-  }
-  let mut file_raw = file_raw.unwrap();
-
-  let str = format!("{}\n", serde_json::to_string_pretty(data).unwrap());
-  let res = file_raw.write_all(str.as_bytes());
-
-  if res.is_err() {
-    println!("error writing rawout file");
-    return;
-  }
-}
-
 async fn parse_json_data(data: &[Value]) {
   let mut data = flatten_json_arrays(data);
-  write_raw_data(&data);
+  write_json_to_file("rawout.json", &data);
 
   let file = File::create("out.json");
   if file.is_err() {
@@ -112,14 +87,18 @@ async fn parse_json_data(data: &[Value]) {
   }
 }
 
+// # waiting_for_correction
+// # in_progress
+// # creating_group
+
 pub async fn project_user_data(api: &mut Intra42Api) {
   let mut params = Params::new(&[
     ("filter[campus]", "53"),
     ("filter[cursus]", "21"),
-    ("filter[status]", "in_progress"),
+    // ("filter[status]", "in_progress"),
     (
       "range[updated_at]",
-      "2024-01-01T00:00:00.000Z,2026-01-01T00:00:00.000Z",
+      "2025-04-01T00:00:00.000Z,2026-01-01T00:00:00.000Z",
     ),
   ]);
 
