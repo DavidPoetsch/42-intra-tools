@@ -1,0 +1,90 @@
+{
+  "created_at": "2025-04-01T17:03:36.765Z",
+  "current_team_id": 6480659,
+  "cursus_ids": [
+    21
+  ],
+  "final_mark": null,
+  "id": 4232752,
+  "marked": false,
+  "marked_at": null,
+  "occurrence": 0,
+  "project": {
+    "id": 1334,
+    "name": "Philosophers",
+    "parent_id": null,
+    "slug": "42cursus-philosophers"
+  },
+  "retriable_at": null,
+  "status": "in_progress",
+  "teams": [
+    {
+      "closed?": false,
+      "closed_at": null,
+      "created_at": "2025-04-01T17:03:36.796Z",
+      "final_mark": null,
+      "id": 6480659,
+      "locked?": true,
+      "locked_at": "2025-04-01T17:03:36.838Z",
+      "name": "eadlim's group",
+      "project_gitlab_path": "pedago_world/42-cursus/inner-circle/philosophers",
+      "project_id": 1334,
+      "project_session_id": 10912,
+      "repo_url": "git@vogsphere.42vienna.com:vogsphere/intra-uuid-abc09256-cd97-498f-aee9-94b55d06dae3-6480659-eadlim",
+      "repo_uuid": "intra-uuid-abc09256-cd97-498f-aee9-94b55d06dae3-6480659-eadlim",
+      "status": "in_progress",
+      "terminating_at": null,
+      "updated_at": "2025-04-01T17:05:40.000Z",
+      "url": "https://api.intra.42.fr/v2/teams/6480659",
+      "users": [
+        {
+          "id": 193091,
+          "leader": true,
+          "login": "eadlim",
+          "occurrence": 0,
+          "projects_user_id": 4232752,
+          "url": "https://api.intra.42.fr/v2/users/eadlim",
+          "validated": true
+        }
+      ],
+      "validated?": null
+    }
+  ],
+  "updated_at": "2025-04-01T17:05:40.007Z",
+  "user": {
+    "active?": true,
+    "alumni?": false,
+    "alumnized_at": null,
+    "anonymize_date": "2028-07-23T00:00:00.000+02:00",
+    "correction_point": 4,
+    "created_at": "2024-07-05T08:11:21.270Z",
+    "data_erasure_date": "2028-07-23T00:00:00.000+02:00",
+    "displayname": "Ekin Adlim",
+    "email": "eadlim@student.42vienna.com",
+    "first_name": "Ekin",
+    "id": 193091,
+    "image": {
+      "link": "https://cdn.intra.42.fr/users/c77a457a4641b5aa32896fce0c8a98d3/eadlim.jpg",
+      "versions": {
+        "large": "https://cdn.intra.42.fr/users/2dc4043fdc4120dc69d89cc4097e6b13/large_eadlim.jpg",
+        "medium": "https://cdn.intra.42.fr/users/4d093b6dda5f93088ed4cd41bab58da8/medium_eadlim.jpg",
+        "micro": "https://cdn.intra.42.fr/users/df05cb195fd93e7f0b807f5cf72d2dc8/micro_eadlim.jpg",
+        "small": "https://cdn.intra.42.fr/users/4cc815917470fd06b2b503223cfd3deb/small_eadlim.jpg"
+      }
+    },
+    "kind": "student",
+    "last_name": "Adlim",
+    "location": "c3r10p2",
+    "login": "eadlim",
+    "phone": "hidden",
+    "pool_month": "july",
+    "pool_year": "2024",
+    "staff?": false,
+    "updated_at": "2025-07-24T11:36:06.602Z",
+    "url": "https://api.intra.42.fr/v2/users/eadlim",
+    "usual_first_name": null,
+    "usual_full_name": "Ekin Adlim",
+    "wallet": 295
+  },
+  "validated?": null
+}

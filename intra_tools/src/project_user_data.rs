@@ -6,7 +6,7 @@
 /*   By: dpotsch <poetschdavid@gmail.com>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/06/28 15:22:08 by dpotsch           #+#    #+#             */
-/*   Updated: 2025/07/23 14:35:56 by dpotsch          ###   ########.fr       */
+/*   Updated: 2025/07/24 15:40:05 by dpotsch          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -35,9 +35,9 @@ fn sort_by_project(data: &mut Vec<Value>) {
 
 async fn parse_json_data(data: &[Value]) {
   let mut data = flatten_json_arrays(data);
-  write_json_to_file("rawout.json", &data);
+  write_json_to_file("raw_project_user_data.json", &data);
 
-  let file = File::create("out.json");
+  let file = File::create("project_user_data.txt");
   if file.is_err() {
     return;
   }
@@ -95,10 +95,10 @@ pub async fn project_user_data(api: &mut Intra42Api) {
   let mut params = Params::new(&[
     ("filter[campus]", "53"),
     ("filter[cursus]", "21"),
-    // ("filter[status]", "in_progress"),
+    ("filter[status]", "in_progress"),
     (
       "range[updated_at]",
-      "2025-04-01T00:00:00.000Z,2026-01-01T00:00:00.000Z",
+      "2025-01-01T00:00:00.000Z,2026-01-01T00:00:00.000Z",
     ),
   ]);
 

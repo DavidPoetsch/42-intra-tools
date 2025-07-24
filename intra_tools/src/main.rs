@@ -6,7 +6,7 @@
 /*   By: dpotsch <poetschdavid@gmail.com>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/06/26 19:22:16 by dpotsch           #+#    #+#             */
-/*   Updated: 2025/07/23 10:54:15 by dpotsch          ###   ########.fr       */
+/*   Updated: 2025/07/24 12:37:03 by dpotsch          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,10 +14,12 @@ mod event_users;
 mod project_user_data;
 mod projects;
 mod utils;
+mod user_data;
 
 use crate::event_users::get_event_users;
 use crate::project_user_data::project_user_data;
 use crate::projects::projects_data;
+use crate::user_data::user_data;
 use api42_rust_lib::Intra42Api;
 use std::env;
 
@@ -45,5 +47,7 @@ async fn main() {
     get_event_users(&mut api, 32965).await;
   } else if arg1 == "3" {
     projects_data(&mut api).await;
+  } else if arg1 == "4" {
+    user_data(&mut api).await;
   }
 }

@@ -6,7 +6,7 @@
 /*   By: dpotsch <poetschdavid@gmail.com>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/06/26 19:22:16 by dpotsch           #+#    #+#             */
-/*   Updated: 2025/07/23 13:48:28 by dpotsch          ###   ########.fr       */
+/*   Updated: 2025/07/24 15:42:51 by dpotsch          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -70,6 +70,8 @@ impl Intra42Api {
     params: &Params,
   ) -> Result<Response, Intra42ApiError> {
     // println!("uri: {}, params: {}", uri, params);//!for debuging
+    // println!("{:?}", params.as_query());
+
     for attempt in 1..=5 {
       let response = client
         .get(uri)
@@ -206,7 +208,12 @@ impl Intra42Api {
 
     let headers: &HeaderMap = response.headers();
     // println!("{:?}", headers);
-
+    // match response.text().await
+    // {
+    //     Ok(body) => {println!("{}", body)},
+    //     Err(_) => todo!(),
+    // };
+    
     let total = headers
       .get("X-Total")
       .ok_or(Intra42ApiError::FailedToParseXTotal)?
@@ -252,7 +259,8 @@ impl Intra42Api {
           break;
         }
 
-        let owned_params = params.clone();
+        let mut owned_params = params.clone();
+        owned_params.add("page", page.to_string().as_str());
         let client_clone = self.client.clone();
         let token_clone = token.clone();
         let endpoint_clone = Self::build_uri(endpoint);
