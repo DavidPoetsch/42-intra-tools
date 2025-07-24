@@ -10,8 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-use api42_rust_lib::{params::Params, Intra42Api};
 use crate::utils::{flatten_json_arrays, write_json_to_file};
+use api42_rust_lib::{params::Params, Intra42Api};
 use serde_json::Value;
 
 async fn parse_json_data(data: &[Value]) {
@@ -19,8 +19,7 @@ async fn parse_json_data(data: &[Value]) {
   write_json_to_file("rawout.json", &data);
 }
 
-pub async fn user_data(api: &mut Intra42Api)
-{
+pub async fn user_data(api: &mut Intra42Api) {
   // let mut params = Params::new(&[
   //   ("filter[campus]", "53"),
   //   ("filter[cursus]", "21"),

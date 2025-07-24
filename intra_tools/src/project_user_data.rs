@@ -6,10 +6,11 @@
 /*   By: dpotsch <poetschdavid@gmail.com>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/06/28 15:22:08 by dpotsch           #+#    #+#             */
-/*   Updated: 2025/07/24 15:40:05 by dpotsch          ###   ########.fr       */
+/*   Updated: 2025/07/24 17:05:47 by dpotsch          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+use crate::json_parsing::find_str_entry;
 use crate::utils::flatten_json_arrays;
 use crate::utils::write_json_to_file;
 use api42_rust_lib::{params::Params, Intra42Api};
@@ -47,22 +48,9 @@ async fn parse_json_data(data: &[Value]) {
     sort_by_project(array);
 
     for item in array {
-      let first_name = item
-        .get("user")
-        .and_then(|u| u.get("first_name"))
-        .and_then(|n| n.as_str())
-        .unwrap_or("<unknown>");
-      let login = item
-        .get("user")
-        .and_then(|u| u.get("login"))
-        .and_then(|n| n.as_str())
-        .unwrap_or("<unknown>");
-      let project = item
-        .get("project")
-        .and_then(|i| i.get("name"))
-        .and_then(|i| i.as_str())
-        .unwrap_or("<unknown>");
-
+      let first_name = find_str_entry("user/first_name", &item);
+      let login = find_str_entry("user/login", &item);
+      let project = find_str_entry("project/name", &item);
       let empty_vec = Vec::new();
       let cursus_ids = item
         .get("cursus_ids")
@@ -87,9 +75,11 @@ async fn parse_json_data(data: &[Value]) {
   }
 }
 
-// # waiting_for_correction
-// # in_progress
-// # creating_group
+/*
+  campus 53 = vienna
+  cursus 21 = common core
+  possible status: creating_group, in_progress, waiting_for_correction
+*/
 
 pub async fn project_user_data(api: &mut Intra42Api) {
   let mut params = Params::new(&[

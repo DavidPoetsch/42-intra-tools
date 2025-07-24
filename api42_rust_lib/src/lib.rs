@@ -6,7 +6,7 @@
 /*   By: dpotsch <poetschdavid@gmail.com>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/06/26 19:22:16 by dpotsch           #+#    #+#             */
-/*   Updated: 2025/07/24 15:42:51 by dpotsch          ###   ########.fr       */
+/*   Updated: 2025/07/24 17:06:46 by dpotsch          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -213,7 +213,7 @@ impl Intra42Api {
     //     Ok(body) => {println!("{}", body)},
     //     Err(_) => todo!(),
     // };
-    
+
     let total = headers
       .get("X-Total")
       .ok_or(Intra42ApiError::FailedToParseXTotal)?
@@ -254,11 +254,10 @@ impl Intra42Api {
       let mut tasks = Vec::new();
 
       // Spawn up to 5 tasks
-      for _ in 0..5 {
+      for _ in 0..20 {
         if page > total_pages {
           break;
         }
-
         let mut owned_params = params.clone();
         owned_params.add("page", page.to_string().as_str());
         let client_clone = self.client.clone();
@@ -278,6 +277,7 @@ impl Intra42Api {
 
         tasks.push(task);
         page += 1;
+        sleep(Duration::from_millis(500)).await; // api calls are limited to 2 calls per second
       }
 
       // Wait for the current batch of tasks

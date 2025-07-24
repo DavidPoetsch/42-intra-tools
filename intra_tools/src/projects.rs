@@ -6,22 +6,20 @@
 /*   By: dpotsch <poetschdavid@gmail.com>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/06/28 15:22:08 by dpotsch           #+#    #+#             */
-/*   Updated: 2025/06/29 18:11:04 by dpotsch          ###   ########.fr       */
+/*   Updated: 2025/07/24 16:59:28 by dpotsch          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 use api42_rust_lib::{params::Params, Intra42Api};
 use serde_json::Value;
 
+use crate::json_parsing::find_str_entry;
+
 pub fn print_projects_data(data: &[Value]) {
   for _item in data {
-    // println!("{}", serde_json::to_string_pretty(&item).unwrap());
     if let Some(array) = _item.as_array() {
       for item in array {
-        let name = item
-          .get("name")
-          .and_then(|n| n.as_str())
-          .unwrap_or("<unknown>");
+        let name = find_str_entry("name", &item);
         let id = item.get("id").and_then(|n| n.as_i64()).unwrap_or(-1);
         println!("id: {:5}, name: {}", id, name);
       }

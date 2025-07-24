@@ -6,15 +6,16 @@
 /*   By: dpotsch <poetschdavid@gmail.com>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/06/26 19:22:16 by dpotsch           #+#    #+#             */
-/*   Updated: 2025/07/24 12:37:03 by dpotsch          ###   ########.fr       */
+/*   Updated: 2025/07/24 16:33:17 by dpotsch          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 mod event_users;
+mod json_parsing;
 mod project_user_data;
 mod projects;
-mod utils;
 mod user_data;
+mod utils;
 
 use crate::event_users::get_event_users;
 use crate::project_user_data::project_user_data;

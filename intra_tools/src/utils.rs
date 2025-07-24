@@ -6,12 +6,12 @@
 /*   By: dpotsch <poetschdavid@gmail.com>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/07/23 10:41:38 by dpotsch           #+#    #+#             */
-/*   Updated: 2025/07/24 14:11:23 by dpotsch          ###   ########.fr       */
+/*   Updated: 2025/07/24 16:50:22 by dpotsch          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-use std::fs::File;
 use serde_json::Value;
+use std::fs::File;
 use std::io::Write;
 
 pub fn flatten_json_arrays(data: &[Value]) -> Value {
@@ -41,16 +41,16 @@ pub fn write_json_to_file(file_name: &str, data: &Value) {
   }
 }
 
-// pub fn write_string_to_file(file_name: &str, data: &str) {
-//   let file_raw = File::create(file_name);
-//   if file_raw.is_err() {
-//     return;
-//   }
-//   let mut file_raw = file_raw.unwrap();
-//   let res = file_raw.write_all(data.as_bytes());
+pub fn write_string_to_file(file_name: &str, data: &str) {
+  let file_raw = File::create(file_name);
+  if file_raw.is_err() {
+    return;
+  }
+  let mut file_raw = file_raw.unwrap();
+  let res = file_raw.write_all(data.as_bytes());
 
-//   if res.is_err() {
-//     println!("error writing file {}", file_name);
-//     return;
-//   }
-// }
+  if res.is_err() {
+    println!("error writing file {}", file_name);
+    return;
+  }
+}
