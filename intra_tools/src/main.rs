@@ -6,11 +6,12 @@
 /*   By: dpotsch <poetschdavid@gmail.com>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/06/26 19:22:16 by dpotsch           #+#    #+#             */
-/*   Updated: 2025/07/24 16:33:17 by dpotsch          ###   ########.fr       */
+/*   Updated: 2025/07/27 12:02:38 by dpotsch          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 mod event_users;
+mod events;
 mod json_parsing;
 mod project_user_data;
 mod projects;
@@ -18,6 +19,7 @@ mod user_data;
 mod utils;
 
 use crate::event_users::get_event_users;
+use crate::events::get_events;
 use crate::project_user_data::project_user_data;
 use crate::projects::projects_data;
 use crate::user_data::user_data;
@@ -45,10 +47,12 @@ async fn main() {
   if arg1 == "1" {
     project_user_data(&mut api).await;
   } else if arg1 == "2" {
-    get_event_users(&mut api, 32965).await;
+    get_event_users(&mut api, 33677).await;
   } else if arg1 == "3" {
     projects_data(&mut api).await;
   } else if arg1 == "4" {
     user_data(&mut api).await;
+  } else if arg1 == "5" {
+    get_events(&mut api).await;
   }
 }

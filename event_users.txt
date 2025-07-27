@@ -1,0 +1,7 @@
+User first_name: Katrin          (krabitsc)
+User first_name: Vesta           (vmanuyko)
+User first_name: Viktória        (vfoner)
+User first_name: Ildikó          (icseri)
+User first_name: David           (dpotsch)
+User first_name: David           (dstumpf)
+User first_name: Lucas           (lutoledo)

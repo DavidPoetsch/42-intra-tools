@@ -1,0 +1,2650 @@
+[
+  {
+    "begin_at": "2025-09-15T13:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-15T10:44:40.672Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Another episode of the saga:\r\n\r\n\"Is that your yogurt or a science experiment? 🔬🧁\" and \"Your locker misses you. Collect your stuff before the great cleanse begins!\" 💔📚\r\n\r\n### For a faster clean-up of the fridges and kitchen cabinet, PLEASE COMPLETELY EMPTY THE FRIDGES AND CABINET, EVERYTHING THAT'S STILL INSIDE WILL BE DISPOSED OF or donated to the community!!!\r\n\r\nIf you want to keep your locker, please DM me (Marta 🌞) the locker number.",
+    "end_at": "2025-09-15T15:00:00.000Z",
+    "id": 32140,
+    "kind": "challenge",
+    "location": "Basecamp",
+    "max_people": 0,
+    "name": "Fridge and Kitchen cabinet and Lockers cleaning 🫧 (just a reminder)",
+    "nbr_subscribers": 0,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-15T10:44:40.683Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-09-09T16:30:00.000Z",
+    "campus_ids": [
+      1,
+      9,
+      12,
+      13,
+      14,
+      16,
+      20,
+      21,
+      22,
+      25,
+      26,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      43,
+      44,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      55,
+      56,
+      58,
+      57,
+      59,
+      60,
+      62,
+      64,
+      65,
+      67,
+      69,
+      68,
+      71,
+      73,
+      75
+    ],
+    "created_at": "2025-07-09T09:39:01.701Z",
+    "cursus_ids": [
+      1,
+      21
+    ],
+    "description": "On September 9th at 6:30 PM (CET), join the15th edition of the Alumni Fireside Chat — an online conversation (in English) bringing together former 42 students to share their journeys and insights.\n\nAlumni panelists will be announced soon!\n\nYou must register on Zoom to attend >> https://zoom.us/webinar/register/4617520529709/WN_eDoxNV6RTwS534S--dsYkA\n\n[GOOGLE CALENDAR LINK](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%F0%9F%8E%93+Alumni+Fireside+Chat+%2315&dates=20250909T163000Z%2F20250909T173000Z&details=On+September+9th+at+6%3A30+PM+%28CET%29%2C+join+the15th+edition+of+the+Alumni+Fireside+Chat+%E2%80%94+an+online+conversation+%28in+English%29+bringing+together+former+42+students+to+share+their+journeys+and+insights.%0A%0AAlumni+panelists+will+be+announced+soon%21%0A%0AYou+must+register+on+Zoom+to+attend+%3E%3E+https%3A%2F%2Fzoom.us%2Fwebinar%2Fregister%2F4617520529709%2FWN_eDoxNV6RTwS534S--dsYkA&location=)",
+    "end_at": "2025-09-09T17:30:00.000Z",
+    "id": 33455,
+    "kind": "meet",
+    "location": "",
+    "max_people": null,
+    "name": "🎓 Alumni Fireside Chat #15",
+    "nbr_subscribers": 508,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-07-09T09:39:03.047Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-08-11T13:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-15T10:43:37.283Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Another episode of the saga:\r\n\r\n\"Is that your yogurt or a science experiment? 🔬🧁\" and \"Your locker misses you. Collect your stuff before the great cleanse begins!\" 💔📚\r\n\r\n### For a faster clean-up of the fridges and kitchen cabinet, PLEASE COMPLETELY EMPTY THE FRIDGES AND CABINET, EVERYTHING THAT'S STILL INSIDE WILL BE DISPOSED OF or donated to the community!!!\r\n\r\nIf you want to keep your locker, please DM me (Marta 🌞) the locker number.",
+    "end_at": "2025-08-11T15:00:00.000Z",
+    "id": 32139,
+    "kind": "challenge",
+    "location": "Basecamp",
+    "max_people": 0,
+    "name": "Fridge and Kitchen cabinet and Lockers cleaning 🫧 (just a reminder)",
+    "nbr_subscribers": 0,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-15T10:43:37.293Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-07-20T11:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-27T13:31:59.959Z",
+    "cursus_ids": [
+      9,
+      21
+    ],
+    "description": "💸 Entry fee: 4,60 €. \r\n\r\n⏱️ We leave from school at 15:30, or meet us directly at the [Strandbad](https://maps.app.goo.gl/F42x9Tt8dnR4MisUA). \r\n\r\n🏊‍♀️ Don’t forget your swimwear. \r\n\r\n⚠️ Please subscribe to the event – **if there are less than 4 people signed up, it will be cancelled!**",
+    "end_at": "2025-07-20T15:00:00.000Z",
+    "id": 33166,
+    "kind": "association",
+    "location": "Arbeiterstrandbadstraße 91, 1220 Wien",
+    "max_people": 42,
+    "name": "🏐🌊 Beachvolleyball 👙🍻",
+    "nbr_subscribers": 1,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-27T15:15:18.744Z",
+    "waitlist": {
+      "created_at": "2025-06-27T13:31:59.993Z",
+      "id": 19274,
+      "updated_at": "2025-06-27T13:31:59.993Z",
+      "waitlistable_id": 33166,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-07-18T16:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-27T08:49:25.037Z",
+    "cursus_ids": [
+      9
+    ],
+    "description": "First exam is done, you've made it! Now time to relax, enjoy some pizza and chat up with your peers.",
+    "end_at": "2025-07-18T17:00:00.000Z",
+    "id": 33153,
+    "kind": "meet_up",
+    "location": "Base Camp",
+    "max_people": null,
+    "name": "PIZZA TIME! 🍕",
+    "nbr_subscribers": 0,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-27T08:49:25.045Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-07-18T09:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-27T08:48:31.709Z",
+    "cursus_ids": [
+      9
+    ],
+    "description": "Join a meditation session to relax and ease your mind before the first exam.",
+    "end_at": "2025-07-18T09:30:00.000Z",
+    "id": 33152,
+    "kind": "event",
+    "location": "Summit",
+    "max_people": 20,
+    "name": "Meditation 🧘‍♂️",
+    "nbr_subscribers": 0,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-27T08:48:31.730Z",
+    "waitlist": {
+      "created_at": "2025-06-27T08:48:31.745Z",
+      "id": 19260,
+      "updated_at": "2025-06-27T08:48:31.745Z",
+      "waitlistable_id": 33152,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-07-17T13:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-27T08:50:20.378Z",
+    "cursus_ids": [
+      9
+    ],
+    "description": "Play and earn points for your coalition team. Good luck!",
+    "end_at": "2025-07-17T14:00:00.000Z",
+    "id": 33154,
+    "kind": "event",
+    "location": "tba",
+    "max_people": null,
+    "name": "Coalition game #1",
+    "nbr_subscribers": 0,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-27T08:50:20.386Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-07-17T09:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-27T08:53:52.375Z",
+    "cursus_ids": [
+      9
+    ],
+    "description": "The Piscine can be very intense and stressfull, so make sure to join this weekly check up, which is meant as a safe space for you to share, reflect, and support one another. Prioritize your well-being during the Piscine with open conversations and mindfulness practices.",
+    "end_at": "2025-07-17T10:00:00.000Z",
+    "id": 33155,
+    "kind": "meet_up",
+    "location": "Launch Pad",
+    "max_people": 20,
+    "name": "Weekly Check up 🫶",
+    "nbr_subscribers": 0,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-27T08:53:52.384Z",
+    "waitlist": {
+      "created_at": "2025-06-27T08:53:52.391Z",
+      "id": 19261,
+      "updated_at": "2025-06-27T08:53:52.391Z",
+      "waitlistable_id": 33155,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-07-16T12:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-27T08:47:27.482Z",
+    "cursus_ids": [
+      9
+    ],
+    "description": "Join a relaxing yoga session in the Summit Room! \r\n\r\nYoga mats are available; however, we have a limited number of them, so you can also bring your own. Don't forget to bring a towel! 😁\t",
+    "end_at": "2025-07-16T13:00:00.000Z",
+    "id": 33151,
+    "kind": "event",
+    "location": "Summit",
+    "max_people": 14,
+    "name": "Yoga 🧘",
+    "nbr_subscribers": 0,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-27T08:47:27.493Z",
+    "waitlist": {
+      "created_at": "2025-06-27T08:47:27.500Z",
+      "id": 19259,
+      "updated_at": "2025-06-27T08:47:27.500Z",
+      "waitlistable_id": 33151,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-07-15T12:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-27T08:46:11.928Z",
+    "cursus_ids": [
+      9
+    ],
+    "description": "AMA - Ask me Anything Session to answer all of your questions.\t",
+    "end_at": "2025-07-15T13:00:00.000Z",
+    "id": 33150,
+    "kind": "conference",
+    "location": "Summit",
+    "max_people": null,
+    "name": "AMA Session #1",
+    "nbr_subscribers": 0,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-27T08:46:11.936Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-07-15T10:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-27T08:56:53.597Z",
+    "cursus_ids": [
+      9
+    ],
+    "description": "Let's break the ice and get to know your new peers!",
+    "end_at": "2025-07-15T10:30:00.000Z",
+    "id": 33159,
+    "kind": "event",
+    "location": "Summit",
+    "max_people": 20,
+    "name": "Icebreaker event 🧊",
+    "nbr_subscribers": 0,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-27T08:56:53.607Z",
+    "waitlist": {
+      "created_at": "2025-06-27T08:56:53.614Z",
+      "id": 19265,
+      "updated_at": "2025-06-27T08:56:53.614Z",
+      "waitlistable_id": 33159,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-07-15T09:20:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-27T08:56:21.592Z",
+    "cursus_ids": [
+      9
+    ],
+    "description": "Let's break the ice and get to know your new peers!",
+    "end_at": "2025-07-15T09:50:00.000Z",
+    "id": 33158,
+    "kind": "event",
+    "location": "Summit",
+    "max_people": 20,
+    "name": "Icebreaker event 🧊",
+    "nbr_subscribers": 0,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-27T08:56:21.610Z",
+    "waitlist": {
+      "created_at": "2025-06-27T08:56:21.623Z",
+      "id": 19264,
+      "updated_at": "2025-06-27T08:56:21.623Z",
+      "waitlistable_id": 33158,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-07-15T08:40:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-27T08:55:39.832Z",
+    "cursus_ids": [
+      9
+    ],
+    "description": "Let's break the ice and get to know your new peers!",
+    "end_at": "2025-07-15T09:10:00.000Z",
+    "id": 33157,
+    "kind": "event",
+    "location": "Summit",
+    "max_people": 20,
+    "name": "Icebreaker event 🧊",
+    "nbr_subscribers": 0,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-27T08:55:39.841Z",
+    "waitlist": {
+      "created_at": "2025-06-27T08:55:39.847Z",
+      "id": 19263,
+      "updated_at": "2025-06-27T08:55:39.847Z",
+      "waitlistable_id": 33157,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-07-15T08:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-27T08:54:53.503Z",
+    "cursus_ids": [
+      9
+    ],
+    "description": "Let's break the ice and get to know your new peers!",
+    "end_at": "2025-07-15T08:30:00.000Z",
+    "id": 33156,
+    "kind": "event",
+    "location": "Summit",
+    "max_people": 20,
+    "name": "Icebreaker event 🧊",
+    "nbr_subscribers": 0,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-27T08:54:53.510Z",
+    "waitlist": {
+      "created_at": "2025-06-27T08:54:53.522Z",
+      "id": 19262,
+      "updated_at": "2025-06-27T08:54:53.522Z",
+      "waitlistable_id": 33156,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-07-14T09:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-27T08:44:57.462Z",
+    "cursus_ids": [
+      9
+    ],
+    "description": "A mandatory welcoming event to introduce the Campus, the rules, the 42 Vienna team and get all of the information that you will need during the Piscine, followed by group pictures!",
+    "end_at": "2025-07-14T10:30:00.000Z",
+    "id": 33149,
+    "kind": "conference",
+    "location": "Summit",
+    "max_people": null,
+    "name": "Welcome new Pisciners! 🎉",
+    "nbr_subscribers": 0,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-27T08:44:57.476Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-07-13T18:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-07-09T09:40:30.193Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "(oohnivch) wants to invite everyone to his birthday party.\r\nLive DJs, fun games and maybe even karaoke 🙂",
+    "end_at": "2025-07-14T01:00:00.000Z",
+    "id": 33456,
+    "kind": "event",
+    "location": "ra’mien bar, Gumpendorfer str. 9, 1060",
+    "max_people": null,
+    "name": "🎉 Oleh's Birthday Party 🎉",
+    "nbr_subscribers": 8,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-07-09T09:41:04.572Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-07-13T14:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-27T08:09:22.948Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "💸 Entry fee: 4,60 €. \r\n\r\n⏱️ We leave from school at 15:30, or meet us directly at the [Strandbad](https://maps.app.goo.gl/F42x9Tt8dnR4MisUA). \r\n\r\n🏊‍♀️ Don’t forget your swimwear. \r\n\r\n⚠️ Please subscribe to the event – **if there are less than 4 people signed up, it will be cancelled!**",
+    "end_at": "2025-07-13T17:30:00.000Z",
+    "id": 33141,
+    "kind": "association",
+    "location": "Arbeiterstrandbadstraße 91, 1220 Wien",
+    "max_people": 42,
+    "name": "🏐🌊 Beachvolleyball 👙🍻",
+    "nbr_subscribers": 4,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-07-09T08:52:39.816Z",
+    "waitlist": {
+      "created_at": "2025-06-27T08:09:22.967Z",
+      "id": 19254,
+      "updated_at": "2025-06-27T08:09:22.967Z",
+      "waitlistable_id": 33141,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-07-10T13:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-15T10:41:37.432Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Another episode of the saga:\r\n\r\n\"Is that your yogurt or a science experiment? 🔬🧁\" and \"Your locker misses you. Collect your stuff before the great cleanse begins!\" 💔📚\r\n\r\n### For a faster clean-up of the fridges and kitchen cabinet, PLEASE COMPLETELY EMPTY THE FRIDGES AND CABINET, EVERYTHING THAT'S STILL INSIDE WILL BE DISPOSED OF or donated to the community!!!\r\n\r\nIf you want to keep your locker, please DM me (Marta 🌞) the locker number.",
+    "end_at": "2025-07-10T15:00:00.000Z",
+    "id": 32138,
+    "kind": "challenge",
+    "location": "Basecamp",
+    "max_people": 0,
+    "name": "Fridge and Kitchen cabinet and Lockers cleaning 🫧 (just a reminder)",
+    "nbr_subscribers": 0,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-15T10:41:37.442Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-07-09T15:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-27T08:16:31.191Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "[Barbara](https://profile.intra.42.fr/users/astehl) want to invite everyone to another fun Game Night with Board-/Card- and Dice-Games! \r\n\r\nIf someone wants to look at Barbara's collection, you can find it here: https://boardgamegeek.com/collection/user/MoriaProfa?own=1&subtype=boardgame&ff=1 \r\n\r\nOn the top on the left there is the possibility to get a Large Gallery Mode thats recommended to use. Most of the titles are German, but many of the games are also playable without any knowledge of German (except for those with much text). You are very welcomed to message Barbara on Discord if you have any questions about a special game, if she should check one for playability without knowing German and/or of course if you wish to play it so she should bring it! Lets have some (more) fun together!\t",
+    "end_at": "2025-07-09T19:00:00.000Z",
+    "id": 33144,
+    "kind": "association",
+    "location": "Base Camp",
+    "max_people": 20,
+    "name": "Game Night: Board-/Card-/Dice-Games 🎲",
+    "nbr_subscribers": 1,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-27T08:16:31.200Z",
+    "waitlist": {
+      "created_at": "2025-06-27T08:16:31.208Z",
+      "id": 19257,
+      "updated_at": "2025-06-27T08:16:31.208Z",
+      "waitlistable_id": 33144,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-07-07T12:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-27T08:22:12.152Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Community Meeting where the Bocal will be sharing important information and you will get to ask questions that you may have and express your feedback to the 42 Vienna Bocal team. ",
+    "end_at": "2025-07-07T13:00:00.000Z",
+    "id": 33147,
+    "kind": "meet_up",
+    "location": "Summit",
+    "max_people": null,
+    "name": "Community Meeting 📢",
+    "nbr_subscribers": 3,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-27T08:22:12.163Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-07-06T04:42:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-27T08:37:52.578Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Are you ready to take your coding skills to new heights—literally? \r\n\r\nCode to the Top is a unique challenge for all 42 students who dare to push limits not just in code, but in altitude. The goal is simple:\r\n\r\n🗻 Who can code a 42 project at the highest elevation on Earth?\r\n\r\n### Rules:\r\n- You must not be alone. At least two people must be physically present at the location where the coding takes place.\r\n- You must provide photo evidence and post it in the official [42 Vienna Slack channel](https://42born2code.slack.com/archives/C05U1PGPQ4V). \r\n- The photo must clearly show the altitude (via GPS device, signage, or screen).\r\n- It must also show a person actively coding on a laptop at that location.\r\n\r\n**Planes, cable cars, or any kind of aircraft or machine do not count. The spot must be fixed on land (mountain peaks, plateaus, etc.).** How you reach the location is up to you—hike, climb, bike, or teleport—just get there and code.\r\n\r\nThe participant who codes at the highest documented altitude wins eternal glory (**and a cool surprise prize** 🏆).\r\n\r\nReady to rise above the clouds and leave your mark? 🧗‍♂️\r\n\r\nCode high, code proud.",
+    "end_at": "2025-11-30T22:42:00.000Z",
+    "id": 33148,
+    "kind": "challenge",
+    "location": "",
+    "max_people": null,
+    "name": "Code to the Top – The 42 Altitude Challenge",
+    "nbr_subscribers": 4,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-27T08:43:17.676Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-07-04T14:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-27T08:08:07.555Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "💸 Entry fee: 4,60 €. \r\n\r\n⏱️ We leave from school at 15:30, or meet us directly at the [Strandbad](https://maps.app.goo.gl/F42x9Tt8dnR4MisUA). \r\n\r\n🏊‍♀️ Don’t forget your swimwear. \r\n\r\n⚠️ Please subscribe to the event – **if there are less than 4 people signed up, it will be cancelled!**",
+    "end_at": "2025-07-04T17:30:00.000Z",
+    "id": 33140,
+    "kind": "association",
+    "location": "Arbeiterstrandbadstraße 91, 1220 Wien",
+    "max_people": 42,
+    "name": "🏐 🌊 Beachvolleyball 👙 🍻",
+    "nbr_subscribers": 6,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-27T08:08:07.570Z",
+    "waitlist": {
+      "created_at": "2025-06-27T08:08:07.579Z",
+      "id": 19253,
+      "updated_at": "2025-06-27T08:08:07.579Z",
+      "waitlistable_id": 33140,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-07-04T12:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-25T09:01:58.095Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "[Seradj](https://profile.intra.42.fr/users/mfekhar) and [Khaled](https://profile.intra.42.fr/users/kmashkoo) are inviting members of the old and new cohorts to join the robitics club for a new season full of projects and bright ideas. \r\n\r\nIn this first meeting, we'll get to know each other and discuss some project ideas to work on over the coming weeks.",
+    "end_at": "2025-07-04T14:00:00.000Z",
+    "id": 33051,
+    "kind": "association",
+    "location": "Chill Room ",
+    "max_people": 12,
+    "name": "Robotics and electronics club 🤖",
+    "nbr_subscribers": 10,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-25T09:01:58.106Z",
+    "waitlist": {
+      "created_at": "2025-06-25T09:01:58.119Z",
+      "id": 19227,
+      "updated_at": "2025-06-25T09:01:58.119Z",
+      "waitlistable_id": 33051,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-07-03T14:30:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-13T08:58:14.370Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "We are looking for a few volunteers to help welcome guests and share their experience at 42 during the next **Open Day**. \r\n\r\nVolunteers will of course get Altairian Dollars. 😉 \r\n\r\n⚠️ Since many students want to help out for Open Days, we have decided to no longer allow multiple participations in a row. If you have already volunteered, make sure to wait **at least two Open Days** since your last participation to subscribe again; otherwise, you will be unsubscribed. Thanks! ⚠️",
+    "end_at": "2025-07-03T16:00:00.000Z",
+    "id": 32845,
+    "kind": "event",
+    "location": "",
+    "max_people": 3,
+    "name": "Open Day | Volunteers",
+    "nbr_subscribers": 3,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-13T14:05:27.466Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-07-02T16:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-27T08:14:36.306Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Let's have some fun and play \"Werewolves of Miller's Hollow\" together - with the \"Best of Werwolves of Miller's Hollow\"-Edition. \r\n\r\nThe organizer, [Barbara](https://profile.intra.42.fr/users/astehl), will explain everything but if anyone wants to prepare, here is a rulebook (with even more roles than we will have, could not find an English rulebook for the \"Best of\"-Edition): https://cdn.svc.asmodee.net/production-asmodeeca/uploads/2023/07/WerewolvesThePact_EN_Rules.pdf",
+    "end_at": "2025-07-02T20:00:00.000Z",
+    "id": 33143,
+    "kind": "association",
+    "location": "Summit",
+    "max_people": 28,
+    "name": "Game Night: Best of Werewolves of Miller's Hollow 🐺",
+    "nbr_subscribers": 4,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-27T08:14:36.315Z",
+    "waitlist": {
+      "created_at": "2025-06-27T08:14:36.322Z",
+      "id": 19256,
+      "updated_at": "2025-06-27T08:14:36.322Z",
+      "waitlistable_id": 33143,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-07-01T07:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-26T10:07:07.859Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "As already briefly announced in week's 15 weekly newsletter, **from the 1st until the 3rd of July** we will be hosting a short bootcamp called \"**Pro Training - AI / Machine Learning using advanced libraries**\", the bootcamp lasts three days from **from 09.00 to 17.00**.\r\n\r\nThe bootcamp will take place in the [House of Digitalization](https://virtuelleshaus.at/en) in [Tulln](https://maps.app.goo.gl/zFoc89fpvDwMEcPSA), where members of WKNO will take part.\r\n\r\nUnlike some previously proposed bootcamps, for this bootcamp, it is a necessary **requirement** to have **basic Python programming skills**.\r\n**Theme**: This bootcamp aims to give attendees a practical application of basic machine learning concepts\r\n- ***Details*:** 3 levels of difficulty\r\n   - **Module 0xX**: Introduction to AI projects, like implementing a linear regression model to predict a continuous variable from input data\r\n   - **Module 1xX**: Discovering classification through logistic regression and other more advanced models\r\n   - **Module 2xX**: More advanced AI projects, such as constructing a neural network model for image classification\r\nYou will not have to do them all, but to \"place yourself\" on a level of difficulty based on your previous knowledge on the topic and start from there.\r\n---\r\nWe are looking for **8** students who would be interested in participating as attendees, while helping the participants understand how the system and the peer-to-peer work.\r\nSince the bootcamp will take place in Tulln:\r\n- depending on how many cars we have: you could come with us but, if we do not have enough cars/places, than we will buy the train tickets for you,\r\n- and you will get food every day (First day: breakfast, lunch, and snacks - Second and Third day: lunch - Beverages and coffee during the whole training).\r\n\r\nPlease, register only if you plan to fully attend the 3 days, already have basic Python knowledge, and are willing to help. - Deadline for the registration: Fri 20 June 2025.\r\n_Just to be clear, please note that: no blackhole days will be added to your account if you attend, and no extension will be done to any deadline. Your presence is required all 3 days from 09.00 to 17.00._",
+    "end_at": "2025-07-03T15:00:00.000Z",
+    "id": 32380,
+    "kind": "piscine",
+    "location": "House of Digitalization - Tulln",
+    "max_people": 11,
+    "name": "Pro Training - AI / Machine Learning using advanced libraries",
+    "nbr_subscribers": 11,
+    "prohibition_of_cancellation": 10,
+    "themes": [],
+    "updated_at": "2025-06-24T08:46:09.860Z",
+    "waitlist": {
+      "created_at": "2025-05-30T08:00:59.357Z",
+      "id": 18909,
+      "updated_at": "2025-05-30T08:00:59.357Z",
+      "waitlistable_id": 32380,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-06-30T14:30:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-27T08:17:54.505Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "The Party continues their adventurer deeper into the mountain. ",
+    "end_at": "2025-06-30T17:30:00.000Z",
+    "id": 33145,
+    "kind": "association",
+    "location": "Chill Room ",
+    "max_people": 8,
+    "name": "Ttrpg Club: Session 3 🧙‍♂️",
+    "nbr_subscribers": 2,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-27T08:17:54.514Z",
+    "waitlist": {
+      "created_at": "2025-06-27T08:17:54.522Z",
+      "id": 19258,
+      "updated_at": "2025-06-27T08:17:54.522Z",
+      "waitlistable_id": 33145,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-06-30T12:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-27T08:21:22.919Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Community Meeting where the Bocal will be sharing important information and you will get to ask questions that you may have and express your feedback to the 42 Vienna Bocal team. \r\n\r\nYou can read the last meeting's recap on [Disord](https://discord.com/channels/1026201148803260527/1262389284162375770/1386690380493357117)",
+    "end_at": "2025-06-30T13:00:00.000Z",
+    "id": 33146,
+    "kind": "meet_up",
+    "location": "Summit",
+    "max_people": null,
+    "name": "Community Meeting 📢",
+    "nbr_subscribers": 5,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-27T08:21:22.928Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-27T14:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-20T07:36:02.540Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "💸 Entry fee: 4,60 €.\r\n\r\n⏱️ We leave from school at 15:30, or meet us directly at the [Strandbad](https://maps.app.goo.gl/F42x9Tt8dnR4MisUA).\r\n\r\n🏊‍♀️ Don’t forget your swimwear.\r\n\r\n⚠️ Please subscribe to the event – if there are less than 4 people signed up, it will be cancelled!",
+    "end_at": "2025-06-27T17:30:00.000Z",
+    "id": 32965,
+    "kind": "association",
+    "location": "Arbeiterstrandbadstraße 91, 1220 Wien",
+    "max_people": 42,
+    "name": "🏐 🌊 Beachvolleyball 👙 🍻",
+    "nbr_subscribers": 5,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-20T07:36:02.553Z",
+    "waitlist": {
+      "created_at": "2025-06-20T07:36:02.560Z",
+      "id": 19161,
+      "updated_at": "2025-06-20T07:36:02.560Z",
+      "waitlistable_id": 32965,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-06-26T12:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-22T12:39:57.856Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "In this course, participants gain a basic understanding of following Agile Development topics. The program is divided in three blocks. Block 1 (LE001) will consist in the four following courses: \r\n\r\n- LE001.1: Agile SDLC (Agile Software Development Life Cycle, Scrum, Extreme Programming) \r\n- LE001.2: Agile Requirements Engineering (Epics, Features, User Stories,…) \r\n- LE001.3: Agile Testing (Acceptance Test Driven Development, Exploratory Testing, Session Best Testing, Testing Tours, Specifications by Example, …) \r\n- LE001.4: DevOps (Continuous Integration / Delivery / Development) \r\n\r\nThis foundational knowledge is crucial for any agile practitioner and provides the basis for subsequent learning parts of this program, the Agile Topics of the 42 Common Core and Specialization Syllabus. Each of these four topics will be covered with a 90min lecture without any hands-on activities. According to Blooms taxonomy these 4 topics covers only knowledge level (K1) remembering & (K2) understanding. \r\n\r\nBy the end of this course, participants will have a solid understanding of Agile methodologies, effective requirements engineering, testing practices in Agile, and the integration of DevOps principles into the Agile development process. \r\n\r\nAt the completion of the whole program, the participants will receive a certificate from RBI proving that they acquired the basic skills of Agile Engineering. \r\n\r\n### More information about LE001: \r\n\r\n- Duration: 4 weeks (one lecture per week) \r\n- Number Participants: max. 40 \r\n- Previous Knowledge: None\r\n- Selection for Participation: First Come First Serve \r\n\r\n**Certificate:** RBI Certificate Of Participation (at least 3 LE) \r\n\r\n⚠️ **Please only subscribe if you are able to participate in at least three of the lectures or if you missed some sessions from the last round.** If you can no longer join, make sure to unsubscribe 48 hours before the start of the event. If you need to unsubscribe after this deadline, contact Drucilla.\r\n\r\n### When will these courses take place? \r\n\r\n- Agile Software Development Life Cycle: Agile/XP/SCRUM: Thursday, June 5th from 14:00 to 15:30\r\n- Agile Requirements Engineering (ARE): Thursday, June 12th from 14:00 to 15:30\r\n- Agile Testing (ATE): Wednesday, June 18th from 10:00 to 11:30\r\n- **DevOps: Thursday, June 26th from 14:00 to 15:30**\r\n\r\n### LE001.4: CI/CD/DevOps \r\n\r\n**Summary:** \r\n\r\nThe DevOps lecture covers the integration of development and operations to enhance collaboration, automate processes, and deliver high-quality software faster. Participants will understand the cultural and technical aspects of implementing DevOps in Agile environments. \r\n\r\n**Learning Outcomes:** \r\n- Grasp the principles and benefits of DevOps. \r\n- Explore tools and practices for continuous integration and continuous delivery (CI/CD). \r\n- Understand the cultural shift required for successful DevOps adoption. \r\n\r\n### More info about the speaker: \r\n\r\nRudolf Grötz has been working in IT for 30 years and has been a passionate software tester since 2008. He is now working as an Agile Engineering Coach in the topic of Test Automation at Raiffeisen Bank International in Vienna and lives with the motto \"Test automation is not an act, test automation is a habit!\". In addition to various authorships, including one for the iX-Magazin, he organizes the Agile (Test) Automation Meetup in Vienna and also acts as a speaker at conferences such as the Agile Tour Vienna, OOP & German Testing Day. \r\n\r\n**Linkedin**: https://www.linkedin.com/in/rudolf-groetz-6955b9160/\t",
+    "end_at": "2025-06-26T13:30:00.000Z",
+    "id": 32323,
+    "kind": "workshop",
+    "location": "Summit ",
+    "max_people": 40,
+    "name": "Agile Engineering Fundamentals with RBI | CI/CD/DevOps",
+    "nbr_subscribers": 25,
+    "prohibition_of_cancellation": 48,
+    "themes": [],
+    "updated_at": "2025-06-13T14:15:36.089Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-25T14:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-20T09:48:14.621Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "[Kamilla](https://profile.intra.42.fr/users/mhuszar) decided to make this workshop because this is a very important topic that everyone should know about if they are coding in C or C++. Most people equate UB with segfault but the topic is way more complex than this & talking about it will make everyone a better coder. \r\n\r\nWe will talk a bit about C standard & how compiler behaves in different situations & what to pay attention to when you are coding.",
+    "end_at": "2025-06-25T16:00:00.000Z",
+    "id": 32970,
+    "kind": "workshop",
+    "location": "Summit",
+    "max_people": null,
+    "name": "Peer Workshop | Undefined Behavior",
+    "nbr_subscribers": 26,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-20T09:48:14.647Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-25T13:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-20T08:29:21.845Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "### Tournament Details: \r\n- **Date**: Wednesday, June 25th \r\n- **Time**: 15:00 - 16:00 \r\n- **Platform**: usdoku.com\r\n- **Location**: Galaxy \r\n\r\n### Prizes: \r\n\r\n🌟 Everyone will earn coalition points based on their ranking. 😊\t",
+    "end_at": "2025-06-25T14:00:00.000Z",
+    "id": 32967,
+    "kind": "event",
+    "location": "Galaxy (rows 7 & 8)",
+    "max_people": 20,
+    "name": "Sudoku Coalition Tournament 🧠",
+    "nbr_subscribers": 19,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-25T10:03:58.084Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-24T16:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-20T07:34:37.009Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "[Barbara](https://profile.intra.42.fr/users/astehl) want to invite everyone to another fun Game Night with Board-/Card- and Dice-Games! \r\n\r\nIf someone wants to look at Barbara's collection, you can find it here: https://boardgamegeek.com/collection/user/MoriaProfa?own=1&subtype=boardgame&ff=1 \r\n\r\nOn the top on the left there is the possibility to get a Large Gallery Mode thats recommended to use. Most of the titles are German, but many of the games are also playable without any knowledge of German (except for those with much text). You are very welcomed to message Barbara on Discord if you have any questions about a special game, if she should check one for playability without knowing German and/or of course if you wish to play it so she should bring it! Lets have some (more) fun together!",
+    "end_at": "2025-06-24T19:00:00.000Z",
+    "id": 32964,
+    "kind": "association",
+    "location": "Base Camp",
+    "max_people": 20,
+    "name": "Game Night: Board-/Card-/Dice-Games 🎲",
+    "nbr_subscribers": 3,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-20T07:34:37.024Z",
+    "waitlist": {
+      "created_at": "2025-06-20T07:34:37.034Z",
+      "id": 19160,
+      "updated_at": "2025-06-20T07:34:37.034Z",
+      "waitlistable_id": 32964,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-06-24T06:30:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-23T08:42:15.163Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Join RBI Agile Engineering Testing Day & TestBustersDay ! \r\n\r\n### What to Expect:\r\n- Insightful (and potentially controversial) Sessions: From \"Less Testing. Better Quality\" by Sven Schirmer to “Testing in Production” by Mykola Gurov.\r\n- Interactive Panel Discussion:  Join our panelists for a debate on quality versus quantity in testing.\r\n- Personal Journey:  Tamara Josten's \"Becoming a Tester - a fairy tale,\" will give us some insight into which benefits can be gained by hiring career changers using her personal career path as an example.\r\n- Food & Drinks! \r\n\r\n### When will the event take place?\r\nTuesday, June 24th 2025\r\n\r\n### How?\r\n- It’s a hybrid event, for onsite Participation in Muthgasse register for this event.\r\n- If you want to join online this is the meeting [link](https://teams.microsoft.com/l/meetup-join/19:meeting_MzE1MDQ2MWUtY2U3Ni00MzViLWFkZmMtZDNhODE2M2Y5YzM0%40thread.v2/0?context=%7b%22Tid%22:%229b511fda-f0b1-43a5-b06e-1e720f64520a%22%2c%22Oid%22:%22d1ad77db-31cc-479e-9ba3-a61fba806648%22%7d)\r\n\r\n### Where?\r\nThe rooms are Österreich1+2 on the ground floor of the RBI Muthgasse building.\r\n\r\nThis is how you can get there: \r\n- You can enter the building at Nussdorfer Lände 19: https://maps.app.goo.gl/CtRPZgjhsTAAgk4D9\r\n- or Mooslackengasse 12: https://maps.app.goo.gl/WF2NDbxuT42xBX8V7\r\n\r\n### Event Agenda\r\n  \r\n- 08:30 - Registration & Doors Open (Speakers: Rudolf Grötz, Nicol Weghofer)\r\n- 09:00 - Welcome & Introduction (Speakers: David Zeller (RBI), Rudolf Grötz (TestBusters), Nicol Weghofer)\r\n- 09:15 - Talk: Less Testing, Better Quality \r\n\r\nExtern Speaker: Sven Schirmer\r\n\r\n*Why Focus Holistically on Quality for Business Value: In today's fast-paced software development, achieving quality with rapid feedback is crucial. While Generative AI accelerates development, it also increases testing demands, consuming more resources. Focusing only on test quantity doesn't ensure better quality and often isolates QA as the testers' responsibility, rather than a team effort. This leads to inefficiencies, as developers prioritize features over quality, neglecting their role in developer-led testing. Emphasizing holistic quality over test quantity is essential for true business value.*\r\n\r\n- 09:50 - Panel Discussion: Less Testing, Better Quality (Moderator: Nicol Weghofer | Panelists: Sven Schirmer, Martin Klonk, Peter Godovič)\r\n- 10:25 - Coffee Break\r\n- 10:45 - Talk: Becoming a Tester - A Fairy Tale \r\n\r\nExtern Speaker: Tamara Josten\r\n\r\n*I'd like to share my fairy tale of changing careers, overcoming challenges, and entering the world of testing. Along the way, I encountered helpful allies and formidable foes. This journey taught me that diverse skills and backgrounds strengthen teams and companies. By sharing my story, I aim to highlight the value of hiring career changers and the benefits of an agile learning approach. This transformation not only helped me achieve my dream but also reshaped it, showing that everyone can author their own fairy tale.*\r\n\r\n- 11:20 - Talk: Scaling the Heights - Transforming Testing Automation\r\n\r\nSpeaker: Florin Petre\r\n\r\n*In early 2024, the PI Delivery Tribe launched an initiative to revolutionize testing through an Upskilling Testing Automation program. Starting with 25 QA colleagues, it expanded to 135 participants across all delivery tribes. The goals were to upskill 80% of QA staff in test automation and achieve 60% automation coverage for agile products. Despite challenges in stakeholder agreement, budget, and cultural change, support from Group Agile Engineering was crucial to this success story.*\r\n\r\n- 12:00 - Lunch\r\n- 13:00 - Welcome Back (Host: Rudolf Grötz)\r\n- 13:15 - Talk: Testing in Production \r\n\r\nExtern Speaker: Mykola Gurov\r\n \r\n*Embrace Production as a first-class testing environment to decrease costs and improve quality.\r\nThorough testing before merging to master is great, but it doesn’t reveal the unknowns. Staging on shared environments tends to be slow, unreliable and costly to support. Why not just learn from the only true environment by conducting safe and efficient experiments?\r\nThis talk is based on my experience of increasing the delivery rate within the context of back-end systems of bol.com (one of the biggest online retailers of the Netherlands; logistics and purchasing domains), where correctness is often a bigger concern than performance, and recovery might require a bit more than users hitting the refresh button of their browser.\r\nTesting on production is often associated with A/B testing or canary releases, but those aren’t always the best - or even applicable - techniques. We’ll look instead at shadow and dry runs, controlled experiments, survival of the fittest; how to apply these techniques and what to be aware of.*\r\n\r\n- 13:50 - Talk: The Road to QA - An okayish success story\r\n\r\nExtern Speaker: Benjamin Bischoff\r\n \r\n*Throughout my career as a software developer, I’ve observed numerous QA professionals transitioning into test automation roles, with some turning into full-fledged developers. My journey, however, took the opposite path—I moved from being a developer to specializing in test automation.\r\nIn this talk, I aim to delve into why this transition felt like a natural progression for me. I’ll share the lessons I learned along the way and how this shift fundamentally altered my perspective on both developers and QA professionals.\r\nMoreover, I’ll touch on the importance of challenging the status quo and how this significantly enhances career development. By questioning your role, you can uncover opportunities for growth that you might not have considered otherwise.*\r\n\r\n- 14:25- Coffee Break\r\n- 14:45 - Talk: Performance Testing\r\n\r\nSpeaker: Ivan Horvat\r\n \r\n*Performance testing is an important part of the software development cycle and is constantly evolving. I will discuss our experience, which started with simplistic, sporadic tests and evolved into a system-wide, systemic testing process involving the cooperation and coordination of different IT departments, agile teams, and business owners.*\r\n\r\n- 15:20 - Talk: FullStack Consumer Driven Contract Testing with CITRUS\r\n\r\nSpeaker: Andreas Halwein\r\n \r\n*Based on my experience in various product teams developing software products and integrating them with systems across organizations and countries, I would like to share some possible tech stacks for automated regression testing at the system test level. \r\nI will then focus on why you should invest in this and share my lessons learned.*\r\n\r\n- 16:00 - Closing Remarks\r\n",
+    "end_at": "2025-06-24T15:00:00.000Z",
+    "id": 33004,
+    "kind": "event",
+    "location": "RBI Muthgasse building",
+    "max_people": 10,
+    "name": "RBI Agile Engineering Testing Day & TestBustersDay",
+    "nbr_subscribers": 9,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-23T08:47:50.021Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-23T14:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-20T07:37:22.049Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "⚠️ **This Event is cancelled!** ⚠️\r\n\r\nWe will continue where we left off last week, text [Albert](https://profile.intra.42.fr/users/aruckenb) on [discord](https://discord.com/channels/1026201148803260527/1372552787216433163/1382983474822119436) if you cant make it.",
+    "end_at": "2025-06-23T17:30:00.000Z",
+    "id": 32966,
+    "kind": "association",
+    "location": "Chill Room ",
+    "max_people": 0,
+    "name": "[CANCELLED] Ttrpg Club: Session 3 🧙‍♂️",
+    "nbr_subscribers": 2,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-23T08:29:20.496Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-23T12:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-13T09:30:51.892Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Community Meeting where the Bocal will be sharing important information and you will get to ask questions that you may have and express your feedback to the 42 Vienna Bocal team.\r\n\r\nThis time, Tatjana and Hans Jörg will use the time to give you guys some career guidance. ",
+    "end_at": "2025-06-23T13:00:00.000Z",
+    "id": 32850,
+    "kind": "meet_up",
+    "location": "Summit",
+    "max_people": null,
+    "name": "Community Meeting 📢 Career Coaching with Tatjana & Hans Jörg",
+    "nbr_subscribers": 16,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-13T09:30:51.909Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-20T16:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-13T09:04:03.875Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "It's party time! 😜 \r\n\r\nThe [Donauinselfest](https://donauinselfest.at/) is a free festival which takes place every year in Vienna on the Danube Island. Join your peers for a fun night out! ",
+    "end_at": "2025-06-20T20:00:00.000Z",
+    "id": 32847,
+    "kind": "meet_up",
+    "location": "Donauinsel",
+    "max_people": null,
+    "name": "42 Vienna x Donauinselfest 🥳",
+    "nbr_subscribers": 8,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-13T09:04:03.884Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-20T14:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-17T07:41:37.053Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "The entry fee to the Strandbad is 4,60€. Don't forget your swimwear at home, cause you have a chance to swim in the Donau and also in the warmed pools. You can come with us from school at 15:30 or meet us there. \r\n\r\nAfterwards, we'll all go to the Donauinselfest together. 🥳",
+    "end_at": "2025-06-20T18:00:00.000Z",
+    "id": 32887,
+    "kind": "association",
+    "location": "Arbeiterstrandbadstraße 91, 1220 Wien",
+    "max_people": null,
+    "name": "🏐🌊 Beachvolleyball 👙🍻",
+    "nbr_subscribers": 6,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-17T07:41:37.066Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-18T12:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-13T09:28:28.709Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Community Meeting where the Bocal will be sharing important information and you will get to ask questions that you may have and express your feedback to the 42 Vienna Bocal team. \r\n\r\nYou can read the last meeting's recap on [Disord](https://discord.com/channels/1026201148803260527/1262389284162375770/1379074867080728747).",
+    "end_at": "2025-06-18T13:00:00.000Z",
+    "id": 32849,
+    "kind": "meet_up",
+    "location": "Summit",
+    "max_people": null,
+    "name": "Community Meeting 📢",
+    "nbr_subscribers": 5,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-13T09:28:28.718Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-18T08:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-22T12:38:02.224Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "In this course, participants gain a basic understanding of following Agile Development topics. The program is divided in three blocks. Block 1 (LE001) will consist in the four following courses: \r\n\r\n- LE001.1: Agile SDLC (Agile Software Development Life Cycle, Scrum, Extreme Programming) \r\n- LE001.2: Agile Requirements Engineering (Epics, Features, User Stories,…) \r\n- LE001.3: Agile Testing (Acceptance Test Driven Development, Exploratory Testing, Session Best Testing, Testing Tours, Specifications by Example, …) \r\n- LE001.4: DevOps (Continuous Integration / Delivery / Development) \r\n\r\nThis foundational knowledge is crucial for any agile practitioner and provides the basis for subsequent learning parts of this program, the Agile Topics of the 42 Common Core and Specialization Syllabus. Each of these four topics will be covered with a 90min lecture without any hands-on activities. According to Blooms taxonomy these 4 topics covers only knowledge level (K1) remembering & (K2) understanding. \r\n\r\nBy the end of this course, participants will have a solid understanding of Agile methodologies, effective requirements engineering, testing practices in Agile, and the integration of DevOps principles into the Agile development process. \r\n\r\nAt the completion of the whole program, the participants will receive a certificate from RBI proving that they acquired the basic skills of Agile Engineering. \r\n\r\n### More information about LE001: \r\n\r\n- Duration: 4 weeks (one lecture per week) \r\n- Number Participants: max. 40 \r\n- Previous Knowledge: None\r\n- Selection for Participation: First Come First Serve \r\n\r\n**Certificate:** RBI Certificate Of Participation (at least 3 LE) \r\n\r\n⚠️ **Please only subscribe if you are able to participate in at least three of the lectures or if you missed some sessions from the last round.** If you can no longer join, make sure to unsubscribe 48 hours before the start of the event. If you need to unsubscribe after this deadline, contact Drucilla.\r\n\r\n### When will these courses take place? \r\n\r\n- Agile Software Development Life Cycle: Agile/XP/SCRUM: Thursday, June 5th from 14:00 to 15:30\r\n- Agile Requirements Engineering (ARE): Thursday, June 12th from 14:00 to 15:30\r\n- **Agile Testing (ATE): Wednesday, June 18th from 10:00 to 11:30**\r\n- DevOps: Thursday, June 26th from 14:00 to 15:30\r\n\r\n### LE001.3: Agile Testing \r\n\r\n**Summary:** \r\n\r\nThis lecture concentrates on the role of testing in Agile environments, emphasizing continuous testing, acceptance test-driven development (ATDD), and automated testing. Participants will gain insights into how testing practices contribute to the overall success of Agile projects. \r\n\r\n**Learning Outcomes:** \r\n- Comprehend the significance of testing in Agile development. \r\n- Learn about Acceptance Test-Driven Development (ATDD) principles, exploratory testing, testing tours,... \r\n- Explore strategies for implementing automated testing in Agile. \r\n\r\n### More info about the speaker: \r\n\r\nRudolf Grötz has been working in IT for 30 years and has been a passionate software tester since 2008. He is now working as an Agile Engineering Coach in the topic of Test Automation at Raiffeisen Bank International in Vienna and lives with the motto \"Test automation is not an act, test automation is a habit!\". In addition to various authorships, including one for the iX-Magazin, he organizes the Agile (Test) Automation Meetup in Vienna and also acts as a speaker at conferences such as the Agile Tour Vienna, OOP & German Testing Day. \r\n\r\n**Linkedin**: https://www.linkedin.com/in/rudolf-groetz-6955b9160/\t",
+    "end_at": "2025-06-18T09:30:00.000Z",
+    "id": 32322,
+    "kind": "workshop",
+    "location": "Summit ",
+    "max_people": 40,
+    "name": "Agile Engineering Fundamentals with RBI | Agile Testing (ATE)",
+    "nbr_subscribers": 25,
+    "prohibition_of_cancellation": 48,
+    "themes": [],
+    "updated_at": "2025-06-13T14:16:08.881Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-17T16:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-13T08:59:54.389Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Let's have some fun and play \"Werewolves of Miller's Hollow\" together - with the \"Best of Werwolves of Miller's Hollow\"-Edition. \r\n\r\nThe organizer, [Barbara](https://profile.intra.42.fr/users/astehl), will explain everything but if anyone wants to prepare, here is a rulebook (with even more roles than we will have, could not find an English rulebook for the \"Best of\"-Edition): https://cdn.svc.asmodee.net/production-asmodeeca/uploads/2023/07/WerewolvesThePact_EN_Rules.pdf",
+    "end_at": "2025-06-17T18:00:00.000Z",
+    "id": 32846,
+    "kind": "association",
+    "location": "Summit",
+    "max_people": 28,
+    "name": "Game Night: Best of Werewolves of Miller's Hollow 🐺",
+    "nbr_subscribers": 3,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-16T12:02:55.631Z",
+    "waitlist": {
+      "created_at": "2025-06-13T08:59:54.418Z",
+      "id": 19076,
+      "updated_at": "2025-06-13T08:59:54.418Z",
+      "waitlistable_id": 32846,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-06-16T14:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-12T08:20:27.154Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Continue our journey deeper into the stone tooth mountain. \r\n\r\nDont forget to bring the things you need for the session!",
+    "end_at": "2025-06-16T17:30:00.000Z",
+    "id": 32821,
+    "kind": "association",
+    "location": "Chill Room ",
+    "max_people": 8,
+    "name": "Ttrpg Club: Session 2: Deeper Into the Mountain (Group 1) 🧙‍♂️",
+    "nbr_subscribers": 7,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-12T08:20:27.165Z",
+    "waitlist": {
+      "created_at": "2025-06-12T08:20:27.172Z",
+      "id": 19063,
+      "updated_at": "2025-06-12T08:20:27.172Z",
+      "waitlistable_id": 32821,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-06-13T14:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-10T07:43:01.571Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "The entry fee to the Strandbad is 4,60€. Don't forget your swimwear at home, cause you have chance to swim in the Donau and also in the warmed pools.\r\n\r\nYou can come with us from school at 15:30 or meet us there.\r\n\r\nIf you haven't yet please fill out this super short survey to find the optimal time for our weekly sessions during summer: https://forms.gle/rXJracBcQLXpGMu89",
+    "end_at": "2025-06-13T18:00:00.000Z",
+    "id": 32757,
+    "kind": "association",
+    "location": "Arbeiterstrandbadstraße 91, 1220 Wien",
+    "max_people": null,
+    "name": "🏐🌊 Beachvolleyball 👙🍻",
+    "nbr_subscribers": 4,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-10T07:43:01.581Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-12T13:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-15T10:40:18.285Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Another episode of the saga:\r\n\r\n\"Is that your yogurt or a science experiment? 🔬🧁\" and \"Your locker misses you. Collect your stuff before the great cleanse begins!\" 💔📚\r\n\r\n### For a faster clean-up of the fridges and kitchen cabinet, PLEASE COMPLETELY EMPTY THE FRIDGES AND CABINET, EVERYTHING THAT'S STILL INSIDE WILL BE DISPOSED OF or donated to the community!!!\r\n\r\nIf you want to keep your locker, please DM me (Marta 🌞) the locker number.",
+    "end_at": "2025-06-12T15:00:00.000Z",
+    "id": 32136,
+    "kind": "challenge",
+    "location": "Basecamp",
+    "max_people": 0,
+    "name": "Fridge and Kitchen cabinet and Lockers cleaning 🫧 (just a reminder)",
+    "nbr_subscribers": 0,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-15T10:40:18.297Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-12T12:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-22T12:35:24.875Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "In this course, participants gain a basic understanding of following Agile Development topics. The program is divided in three blocks. Block 1 (LE001) will consist in the four following courses: \r\n\r\n- LE001.1: Agile SDLC (Agile Software Development Life Cycle, Scrum, Extreme Programming) \r\n- LE001.2: Agile Requirements Engineering (Epics, Features, User Stories,…) \r\n- LE001.3: Agile Testing (Acceptance Test Driven Development, Exploratory Testing, Session Best Testing, Testing Tours, Specifications by Example, …) \r\n- LE001.4: DevOps (Continuous Integration / Delivery / Development) \r\n\r\nThis foundational knowledge is crucial for any agile practitioner and provides the basis for subsequent learning parts of this program, the Agile Topics of the 42 Common Core and Specialization Syllabus. Each of these four topics will be covered with a 90min lecture without any hands-on activities. According to Blooms taxonomy these 4 topics covers only knowledge level (K1) remembering & (K2) understanding. \r\n\r\nBy the end of this course, participants will have a solid understanding of Agile methodologies, effective requirements engineering, testing practices in Agile, and the integration of DevOps principles into the Agile development process. \r\n\r\nAt the completion of the whole program, the participants will receive a certificate from RBI proving that they acquired the basic skills of Agile Engineering. \r\n\r\n### More information about LE001: \r\n\r\n- Duration: 4 weeks (one lecture per week) \r\n- Number Participants: max. 40 \r\n- Previous Knowledge: None\r\n- Selection for Participation: First Come First Serve \r\n\r\n**Certificate:** RBI Certificate Of Participation (at least 3 LE) \r\n\r\n⚠️ **Please only subscribe if you are able to participate in at least three of the lectures or if you missed some sessions from the last round.** \r\n\r\n### When will these courses take place? \r\n\r\n- Agile Software Development Life Cycle: Agile/XP/SCRUM: Thursday, June 5th from 14:00 to 15:30\r\n- **Agile Requirements Engineering (ARE): Thursday, June 12th from 14:00 to 15:30**\r\n- Agile Testing (ATE): Wednesday, June 18th from 10:00 to 11:30\r\n- DevOps: Thursday, June 26th from 14:00 to 15:30\r\n\r\n### LE001.2: Agile Requirements Engineering \r\n\r\n**Summary:** \r\n\r\nFocusing on Agile Requirements Engineering, this lecture delves into effective ways of gathering, managing, and prioritizing requirements within Agile projects. Participants will learn how to adapt traditional requirements engineering to the iterative and collaborative nature of Agile. \r\n\r\n**Learning Outcomes:** \r\n- Grasp the importance of flexible requirements in Agile (Epics, Features, User Stories,…) \r\n- Explore techniques for effective requirements elicitation and prioritization like backlog grooming and story workshops. \r\n- Understand how to maintain agility in changing requirements. \r\n\r\n### More info about the speaker: \r\n\r\nRudolf Grötz has been working in IT for 30 years and has been a passionate software tester since 2008. He is now working as an Agile Engineering Coach in the topic of Test Automation at Raiffeisen Bank International in Vienna and lives with the motto \"Test automation is not an act, test automation is a habit!\". In addition to various authorships, including one for the iX-Magazin, he organizes the Agile (Test) Automation Meetup in Vienna and also acts as a speaker at conferences such as the Agile Tour Vienna, OOP & German Testing Day. \r\n\r\n**Linkedin**: https://www.linkedin.com/in/rudolf-groetz-6955b9160/\t",
+    "end_at": "2025-06-12T13:30:00.000Z",
+    "id": 32321,
+    "kind": "workshop",
+    "location": "Summit ",
+    "max_people": 40,
+    "name": "Agile Engineering Fundamentals with RBI | Agile Requirements Engineering (ARE)",
+    "nbr_subscribers": 24,
+    "prohibition_of_cancellation": 48,
+    "themes": [],
+    "updated_at": "2025-05-23T12:56:03.537Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-12T11:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-10T14:32:35.383Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Join [Ka Hou](https://profile.intra.42.fr/users/kfan) to discuss all things music (and maybe start a 42 band! 😁).",
+    "end_at": "2025-06-12T12:00:00.000Z",
+    "id": 32778,
+    "kind": "association",
+    "location": "Chill Room ",
+    "max_people": null,
+    "name": "Music Club 🎸",
+    "nbr_subscribers": 2,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-10T14:32:35.400Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-11T15:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-28T09:35:49.938Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "[Barbara](https://profile.intra.42.fr/users/astehl) want to invite everyone to another fun Game Night with Board-/Card- and Dice-Games! \r\n\r\nIf someone wants to look at Barbara's collection, you can find it here: https://boardgamegeek.com/collection/user/MoriaProfa?own=1&subtype=boardgame&ff=1 \r\n\r\nOn the top on the left there is the possibility to get a Large Gallery Mode thats recommended to use. Most of the titles are German, but many of the games are also playable without any knowledge of German (except for those with much text). You are very welcomed to message Barbara on Discord if you have any questions about a special game, if she should check one for playability without knowing German and/or of course if you wish to play it so she should bring it! Lets have some (more) fun together!\t",
+    "end_at": "2025-06-11T19:00:00.000Z",
+    "id": 32438,
+    "kind": "association",
+    "location": "Base Camp",
+    "max_people": 20,
+    "name": "Game Night: Board-/Card-/Dice-Games 🎲",
+    "nbr_subscribers": 2,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-28T09:35:49.952Z",
+    "waitlist": {
+      "created_at": "2025-05-28T09:35:49.964Z",
+      "id": 18889,
+      "updated_at": "2025-05-28T09:35:49.964Z",
+      "waitlistable_id": 32438,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-06-11T12:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-22T12:55:02.880Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "We are going to Beko's headquarters for another Knowledge Sharing session focused on the legal and ethical aspects of AI. \r\n\r\n### When will it take place? \r\nWednesday, June 11th from 14:00 to 16:00 \r\n\r\n### Event Information:\r\n\r\nArtificial intelligence is changing the world: from self-driving cars to chatbots that communicate almost like humans. However with these opportunities come complex questions. Who is liable if an AI system makes mistakes? How do we prevent discrimination by algorithms? And where do we draw the ethical boundaries? In this session, we will explore how legal frameworks and ethical considerations shape the development and use of AI. Ideal for anyone who wants to understand how these exciting challenges will shape our future.\r\n\r\n**Content:**\r\n- Copyright\r\n- Data protection: Processing of personal data by AI\r\n- EU AI Act\r\n- Ethics guidelines\r\n- Practical dos and don'ts (\"commandments\" and \"prohibitions\") with a focus on software development\r\n\r\n### How do I join? \r\nSimply subscribe to the event on the intranet. As always, registrations are on a first come-first serve basis and require active participation (See Event Attendance rules [here](https://meta.intra.42.fr/articles/event-attendance)). Please unsubscribe or contact the Bocal if you can no longer come. No shows will result in a Community Service!",
+    "end_at": "2025-06-11T14:00:00.000Z",
+    "id": 32325,
+    "kind": "workshop",
+    "location": "Stubenbastei 2, 1010 Wien",
+    "max_people": 15,
+    "name": "Knowledge Sharing with Beko |  AI – legal and ethical aspects",
+    "nbr_subscribers": 13,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-13T07:57:38.650Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-06T04:00:00.000Z",
+    "campus_ids": [
+      39,
+      37,
+      16,
+      13,
+      1,
+      9,
+      12,
+      46,
+      43,
+      36,
+      69,
+      60,
+      40,
+      41,
+      34,
+      50,
+      62,
+      33,
+      32,
+      31,
+      29,
+      28,
+      26,
+      55,
+      25,
+      22,
+      38,
+      21,
+      20,
+      52,
+      48,
+      44,
+      47,
+      56,
+      49,
+      53,
+      30,
+      51,
+      14,
+      64
+    ],
+    "created_at": "2025-04-09T07:53:04.762Z",
+    "cursus_ids": [
+      1,
+      21
+    ],
+    "description": "[This event is open to 42 Alumni only]\n\nAfter last year's success, we’re back with even more fun and adventures at the Alumni Summer Camp! On June 6-9, expect 4 days on the stunning island of Oléron, packed with sports or chill, beach sunsets, memorable summer nights, and your favorite 42 crew. Sounds like a plan? 🏄🌴🌺🌅🌊\n\n💰 Cost of the 4-day weekend: 250€\n✅ Included: Meals, shared dorm accommodation, activities, visits, and shuttle (La Rochelle ↔️ Forty 2).\n❌ Not included: Your transport to La Rochelle.\n\n🎟️ Save your spot—tickets are flying fast: https://book.forty2.fr/login \n🎉 Learn more about the Alumni Summer Camp: https://www.42alumni.org/en/article/-beach-with-umbrella-alumni-summer-camp-bookings-now-open/17/03/2025/90\n\n[GOOGLE CALENDAR LINK](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Alumni+Summer+Camp+2025&dates=20250606T040000Z%2F20250609T210000Z&details=%5BThis+event+is+open+to+42+Alumni+only%5D%0A%0AAfter+last+year%27s+success%2C+we%E2%80%99re+back+with+even+more+fun+and+adventures+at+the+Alumni+Summer+Camp%21+On+June+6-9%2C+expect+4+days+on+the+stunning+island+of+Ol%C3%A9ron%2C+packed+with+sports+or+chill%2C+beach+sunsets%2C+memorable+summer+nights%2C+and+your+favorite+42+crew.+Sounds+like+a+plan%3F+%F0%9F%8F%84%F0%9F%8C%B4%F0%9F%8C%BA%F0%9F%8C%85%F0%9F%8C%8A%0A%0A%F0%9F%92%B0+Cost+of+the+4-day+weekend%3A+250%E2%82%AC%0A%E2%9C%85+Included%3A+Meals%2C+shared+dorm+accommodation%2C+activities%2C+visits%2C+and+shuttle+%28La+Rochelle+%E2%86%94%EF%B8%8F+Forty+2%29.%0A%E2%9D%8C+Not+included%3A+Your+transport+to+La+Rochelle.%0A%0A%F0%9F%8E%9F%EF%B8%8F+Save+your+spot%E2%80%94tickets+are+flying+fast%3A+https%3A%2F%2Fbook.forty2.fr%2Flogin+%0A%F0%9F%8E%89+Learn+more+about+the+Alumni+Summer+Camp%3A+https%3A%2F%2Fwww.42alumni.org%2Fen%2Farticle%2F-beach-with-umbrella-alumni-summer-camp-bookings-now-open%2F17%2F03%2F2025%2F90&location=Forty+2%2C+Ol%C3%A9ron+%28France%29)",
+    "end_at": "2025-06-09T21:00:00.000Z",
+    "id": 31362,
+    "kind": "event",
+    "location": "Forty 2, Oléron (France)",
+    "max_people": 100,
+    "name": "Alumni Summer Camp 2025",
+    "nbr_subscribers": 100,
+    "prohibition_of_cancellation": 24,
+    "themes": [],
+    "updated_at": "2025-04-09T07:53:06.651Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-05T14:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-28T09:32:44.056Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Join [Ka Hou](https://profile.intra.42.fr/users/kfan) to discuss all things music (and maybe start a 42 band! 😁).",
+    "end_at": "2025-06-05T15:00:00.000Z",
+    "id": 32437,
+    "kind": "association",
+    "location": "Chill Room ",
+    "max_people": null,
+    "name": "Music Club 🎸",
+    "nbr_subscribers": 5,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-28T12:09:04.472Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-05T12:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-22T12:31:44.578Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "In this course, participants gain a basic understanding of following Agile Development topics. The program is divided in three blocks. Block 1 (LE001) will consist in the four following courses: \r\n\r\n- LE001.1: Agile SDLC (Agile Software Development Life Cycle, Scrum, Extreme Programming) \r\n- LE001.2: Agile Requirements Engineering (Epics, Features, User Stories,…) \r\n- LE001.3: Agile Testing (Acceptance Test Driven Development, Exploratory Testing, Session Best Testing, Testing Tours, Specifications by Example, …) \r\n- LE001.4: DevOps (Continuous Integration / Delivery / Development) \r\n\r\nThis foundational knowledge is crucial for any agile practitioner and provides the basis for subsequent learning parts of this program, the Agile Topics of the 42 Common Core and Specialization Syllabus. Each of these four topics will be covered with a 90min lecture without any hands-on activities. According to Blooms taxonomy these 4 topics covers only knowledge level (K1) remembering & (K2) understanding. \r\n\r\nBy the end of this course, participants will have a solid understanding of Agile methodologies, effective requirements engineering, testing practices in Agile, and the integration of DevOps principles into the Agile development process. \r\n\r\nAt the completion of the whole program, the participants will receive a certificate from RBI proving that they acquired the basic skills of Agile Engineering. \r\n\r\n### More information about LE001: \r\n\r\n- Duration: 4 weeks (one lecture per week) \r\n- Number Participants: max. 40 \r\n- Previous Knowledge: None\r\n- Selection for Participation: First Come First Serve \r\n\r\n**Certificate:** RBI Certificate Of Participation (at least 3 LE) \r\n\r\n⚠️ **Please only subscribe if you are able to participate in at least three of the lectures or if you missed some sessions from the last round.** \r\n\r\n### When will these courses take place? \r\n\r\n- **Agile Software Development Life Cycle: Agile/XP/SCRUM: Thursday, June 5th from 14:00 to 15:30** \r\n- Agile Requirements Engineering (ARE): Thursday, June 12th from 14:00 to 15:30\r\n- Agile Testing (ATE): Wednesday, June 18th from 10:00 to 11:30\r\n- DevOps: Thursday, June 26th from 14:00 to 15:30\r\n\r\n### LE001.1: Agile Software Development Life Cycle: Agile/XP/SCRUM \r\n\r\n**Summary:** \r\n\r\nThis lecture provides an overview of the Agile Software Development Life Cycle (SDLC), covering popular methodologies such as Agile, Scrum, and Extreme Programming. Participants will gain insights into the principles, values, and key practices of each methodology. \r\n\r\n**Learning Outcomes:** \r\n- Understand the fundamentals of Agile methodologies. \r\n- Differentiate between Scrum and Extreme Programming (XP). \r\n- Identify key practices in Agile SDLC and XP. \r\n\r\n### More info about the speaker: \r\n\r\nRudolf Grötz has been working in IT for 30 years and has been a passionate software tester since 2008. He is now working as an Agile Engineering Coach in the topic of Test Automation at Raiffeisen Bank International in Vienna and lives with the motto \"Test automation is not an act, test automation is a habit!\". In addition to various authorships, including one for the iX-Magazin, he organizes the Agile (Test) Automation Meetup in Vienna and also acts as a speaker at conferences such as the Agile Tour Vienna, OOP & German Testing Day. \r\n\r\n**Linkedin**: https://www.linkedin.com/in/rudolf-groetz-6955b9160/",
+    "end_at": "2025-06-05T13:30:00.000Z",
+    "id": 32320,
+    "kind": "workshop",
+    "location": "Summit ",
+    "max_people": 40,
+    "name": "Agile Engineering Fundamentals with RBI | Agile Software Development Life Cycle: Agile/XP/SCRUM",
+    "nbr_subscribers": 29,
+    "prohibition_of_cancellation": 48,
+    "themes": [],
+    "updated_at": "2025-05-23T12:55:52.535Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-04T16:30:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-28T09:43:36.114Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Let's have some fun and play \"Werwolves of Miller's Hollow\" together - with the \"Best of Werwolves of Miller's Hollow\"-Edition. \r\n\r\nThe organizer, [Barbara](https://profile.intra.42.fr/users/astehl), will explain everything but if anyone wants to prepare, here is a rulebook (with even more roles than we will have, could not find an English rulebook for the \"Best of\"-Edition): https://cdn.svc.asmodee.net/production-asmodeeca/uploads/2023/07/WerewolvesThePact_EN_Rules.pdf",
+    "end_at": "2025-06-04T21:42:00.000Z",
+    "id": 32439,
+    "kind": "association",
+    "location": "Summit",
+    "max_people": 28,
+    "name": "Game Night: Best of Werewolves of Miller's Hollow 🐺",
+    "nbr_subscribers": 8,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-28T09:43:36.130Z",
+    "waitlist": {
+      "created_at": "2025-05-28T09:43:36.142Z",
+      "id": 18890,
+      "updated_at": "2025-05-28T09:43:36.142Z",
+      "waitlistable_id": 32439,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-06-04T15:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-04T07:39:40.629Z",
+    "cursus_ids": [
+      3
+    ],
+    "description": "A presentation in order to introduce you to what 42 is, its philosophy and how everything works. More info can be found [here](https://www.eventbrite.at/e/42-vienna-open-day-tickets-1343593487289)",
+    "end_at": "2025-06-04T16:00:00.000Z",
+    "id": 32633,
+    "kind": "event",
+    "location": "Summit room",
+    "max_people": null,
+    "name": "42 Vienna: Open Day",
+    "nbr_subscribers": 3,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-04T07:39:40.646Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-04T14:30:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-09T09:26:17.326Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "We are looking for a few volunteers to help welcome guests and share their experience at 42 during the next **Open Day**. Volunteers will of course get Altairian Dollars. 😉 \r\n\r\n⚠️ Since many students want to help out for Open Days, we have decided to no longer allow multiple participations in a row. If you have already volunteered, make sure to wait **at least two Open Days** since your last participation to subscribe again; otherwise, you will be unsubscribed. Thanks! ⚠️\t",
+    "end_at": "2025-06-04T16:00:00.000Z",
+    "id": 32012,
+    "kind": "event",
+    "location": "",
+    "max_people": 3,
+    "name": "Open Day | Volunteers",
+    "nbr_subscribers": 3,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-09T09:39:17.229Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-04T14:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-01T14:55:43.650Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "The entry fee to the Strandbad is 4,60€. Don't forget your swimwear at home, cause you have chance to swim in the Donau and also in the warmed pools.\r\n\r\nYou can come with us from school at 15:30 or meet us there.\r\n\r\nIf you haven't yet please fill out this super short survey to find the optimal time for our weekly sessions during summer: https://forms.gle/rXJracBcQLXpGMu89",
+    "end_at": "2025-06-04T17:30:00.000Z",
+    "id": 32536,
+    "kind": "association",
+    "location": "Arbeiterstrandbadstraße 91, 1220 Wien",
+    "max_people": null,
+    "name": "🏐🌊 Beachvolleyball 👙🍻",
+    "nbr_subscribers": 4,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-01T14:55:43.660Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-04T12:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-28T12:36:08.629Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "It's picture day! 🎉 \r\n\r\nIt's time to get your professional portraits shot. The new photo will be used in the Intranet and you'll also be able to use it on your CV and social media as well. \r\n\r\nYour subscription to the event is considered a confirmation. No shows or multiple subscriptions will be granted a **community service**! ⚠️ \r\n\r\n**This event is mandatory! If you cannot join any of the time slots, please open an issue or contact Drucilla. Students from Cohort 1, 2, 3 and 4 who couldn't get their pictures taken before and students who bought the New Intra Picture item on the shop are also invited to join.** Please wear appropriate clothing (ideally business or business casual). 👔\t",
+    "end_at": "2025-06-04T13:00:00.000Z",
+    "id": 32465,
+    "kind": "event",
+    "location": "Summit",
+    "max_people": 20,
+    "name": "Student Portraits 📸",
+    "nbr_subscribers": 6,
+    "prohibition_of_cancellation": 48,
+    "themes": [],
+    "updated_at": "2025-05-28T12:36:08.641Z",
+    "waitlist": {
+      "created_at": "2025-05-28T12:36:08.649Z",
+      "id": 18897,
+      "updated_at": "2025-05-28T12:36:08.649Z",
+      "waitlistable_id": 32465,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-06-02T14:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-06-01T14:54:34.131Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "For all those who weren't here last week, as we have discussed the ttrpg club will always take place on monday around 4pm. \r\n\r\nAs you guys must of have seen from the [discord](https://discord.com/channels/1026201148803260527/1372552787216433163/1376844194244726784) their was a POLLLL and the POLLLLL is gonna decide our first ttrpg that were gonna start. During this event we will go over the basic rules as well as create our first characters, depend on how many people come the short adventurers will differ. Please bring a pencil and most importantly yourself.\r\n\r\nCant wait to see you there!",
+    "end_at": "2025-06-02T15:00:00.000Z",
+    "id": 32535,
+    "kind": "association",
+    "location": "Chill Room ",
+    "max_people": 12,
+    "name": "Table Top Rpg Club 🧙‍♂️",
+    "nbr_subscribers": 9,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-06-01T14:54:34.144Z",
+    "waitlist": {
+      "created_at": "2025-06-01T14:54:34.159Z",
+      "id": 18922,
+      "updated_at": "2025-06-01T14:54:34.159Z",
+      "waitlistable_id": 32535,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-06-02T12:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-27T08:49:20.068Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Community Meeting where the Bocal will be sharing important information and you will get to ask questions that you may have and express your feedback to the 42 Vienna Bocal team. \r\n\r\nYou can read the last meeting's recap on [Disord](https://discord.com/channels/1026201148803260527/1262389284162375770/1374030711740301503).",
+    "end_at": "2025-06-02T13:00:00.000Z",
+    "id": 32407,
+    "kind": "meet_up",
+    "location": "Summit ",
+    "max_people": null,
+    "name": "Community Meeting 📢",
+    "nbr_subscribers": 4,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-27T08:49:20.078Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-02T12:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-02T09:17:09.594Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "You are invited to Raiffeisen Informatik for a 2-hour private tour of their Rechenzentrum (server room). \r\n\r\n### When will it take place? \r\nMonday, June nd from 14:00 to 16:00 \r\n\r\n### How do I join? \r\nSimply subscribe to the event on the intranet. As always, registrations are on a first come-first serve basis and require active participation (See [Event Attendance rules](https://meta.intra.42.fr/articles/event-attendance)). Please unsubscribe or contact the Bocal if you can no longer come.",
+    "end_at": "2025-06-02T14:00:00.000Z",
+    "id": 31839,
+    "kind": "event",
+    "location": "Stadlauer Str. 66, 1220 Wien",
+    "max_people": 14,
+    "name": "Learning Journey | Raiffeisen Informatik's \"Rechenzentrum\"",
+    "nbr_subscribers": 14,
+    "prohibition_of_cancellation": 120,
+    "themes": [],
+    "updated_at": "2025-05-02T13:59:16.455Z",
+    "waitlist": {
+      "created_at": "2025-05-06T09:29:32.212Z",
+      "id": 18560,
+      "updated_at": "2025-05-06T09:29:32.212Z",
+      "waitlistable_id": 31839,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-06-02T08:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-19T13:59:26.725Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "The discovery piscinie will help you master basic text editors and delve into the essentials of HTML/CSS, JavaScript, and comprehensive website development. In just 5 days, you'll learn to create your own website and craft simple web pages or interactions. Solve problems independently or in groups, conduct research, and adapt to new technologies.\r\n\r\nThe curriculum includes:\r\n\r\n- SHELL, using the terminal to navigate between folders, create files and perform operations.\r\n- HTML and CSS, learning the basics of web development with HTML and CSS languages.\r\n- Javascript, using the language to create interactions on the web page.\r\nAs usual in 42, there will be no teachers and learning will be based on peer 2 peer.\r\n\r\nThere are **8 spots open** for our students and, if you are interested in attending the discovery piscine, please subscribe to this event at the latest within Friday 23/05/2025.\r\n\r\n##### Just to be clear, please note that: no blackhole days will be added to your account if you attend, and no extension will be done to any deadline. Each day is related to a different topic, therefore, your presence is required all 5 days from 10.00 to 17.00.",
+    "end_at": "2025-06-06T15:00:00.000Z",
+    "id": 32253,
+    "kind": "piscine",
+    "location": "42 Vienna",
+    "max_people": 8,
+    "name": "Discovery Piscine for FLINTA ",
+    "nbr_subscribers": 7,
+    "prohibition_of_cancellation": 7,
+    "themes": [],
+    "updated_at": "2025-05-19T13:59:26.749Z",
+    "waitlist": {
+      "created_at": "2025-05-19T13:59:26.761Z",
+      "id": 18775,
+      "updated_at": "2025-05-19T13:59:26.761Z",
+      "waitlistable_id": 32253,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-06-02T08:00:00.000Z",
+    "campus_ids": [
+      38,
+      66,
+      74,
+      20,
+      26,
+      55,
+      36,
+      67,
+      60,
+      29,
+      16,
+      54,
+      39,
+      12,
+      75,
+      59,
+      13,
+      50,
+      21,
+      44,
+      34,
+      58,
+      31,
+      23,
+      48,
+      32,
+      68,
+      70,
+      52,
+      53,
+      49,
+      33,
+      43,
+      7,
+      2,
+      28,
+      72,
+      69,
+      62,
+      56,
+      65,
+      57,
+      8,
+      17,
+      64,
+      47,
+      30,
+      42,
+      27,
+      18,
+      6,
+      10,
+      15,
+      24,
+      25,
+      19,
+      5,
+      63,
+      61,
+      14,
+      73,
+      51
+    ],
+    "created_at": "2025-04-02T14:59:02.418Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "📅 Dates: June 2–8, 2025 \r\n\r\n📍 Location: 42 Berlin, Germany (on-site). 😳 WOW, THIS IS NOT A REMOTE EVENT 😳\r\n\r\n 🎯 Requirements: Students must have completed the Core Curriculum (Common Core)\r\n\r\n 🔗 Piscine project: https://projects.intra.42.fr/projects/piscine-data-science\r\n\r\n👉 More info about the event: https://42born2code.slack.com/archives/C039P7U6E/p1744033027389089\r\n\r\n💌 How to register: please fill out this form https://docs.google.com/forms/d/e/1FAIpQLScQ49Yjw-FXx_US5mdRb0hYT5olfcmaq2HfD11M1U0r6tHj-g/viewform?usp=header\r\n",
+    "end_at": "2025-06-08T21:00:00.000Z",
+    "id": 31187,
+    "kind": "piscine",
+    "location": "42 Berlin, Germany",
+    "max_people": null,
+    "name": "Piscine Data Science -- Advanced Curriculum",
+    "nbr_subscribers": 285,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-04-07T13:57:03.257Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-06-01T14:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-22T14:09:05.816Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "The entry fee to the Strandbad is 4,60€.\r\nDon't forget your swimwear at home, cause you have chance to swim in the Donau and also in the warmed pools.\r\n\r\nIf you haven't yet please fill out this super short survey to find the optimal time for our weekly sessions during summer:\r\nhttps://forms.gle/rXJracBcQLXpGMu89",
+    "end_at": "2025-06-01T17:30:00.000Z",
+    "id": 32328,
+    "kind": "association",
+    "location": "Arbeiterstrandbadstraße 91, 1220 Wien",
+    "max_people": null,
+    "name": "🏐🌊 Beachvolleyball 👙🍻",
+    "nbr_subscribers": 7,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-22T14:09:05.825Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-05-28T16:30:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-27T08:06:04.479Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "### Event Details: \r\n- Time: Wednesday, 28.05\r\n- Meeting Point: 18:30 at Base Camp\r\n- Departure: 18:45 sharp – Don’t be late!\r\n\r\n📍 **Be at the location from 19:00**\r\n\r\n### Location:\r\n\r\nMAUSEN – Café | Bar | Pub:  Türkenstraße 33, 1090 Wien (7 min walk from Roßauerlände U4)",
+    "end_at": "2025-05-28T21:42:00.000Z",
+    "id": 32401,
+    "kind": "event",
+    "location": "MAUSEN – Café | Bar | Pub, Türkenstraße 33, 1090 Wien",
+    "max_people": null,
+    "name": "Karaoke Party 🎤🎶",
+    "nbr_subscribers": 14,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-27T08:06:04.495Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-05-28T16:15:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-27T08:16:02.105Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "On Wednesday (28.05.2025) the Vienna Women's Cup Final will take place in the beautiful Naturarena Hohe Warte. So if you would like to watch soccer with [Michael](https://profile.intra.42.fr/users/miheider) in one of the oldest and most beautiful soccer grounds in Vienna, you are welcome to come along. We leave from the base camp at around 18:15.\r\n\r\n- Wednesday, 28.05.2025\r\n- SK Rapid Women - Wiener-Sport-Club 1b\r\n- Venue: Naturarena Hohe Warte\r\n- Kick-off: 19:00\r\n- Departure: 18:15 at Basecamp\r\n- Admission: free of charge",
+    "end_at": "2025-05-28T18:30:00.000Z",
+    "id": 32403,
+    "kind": "event",
+    "location": "Stadion Hohe Warte",
+    "max_people": null,
+    "name": "Vienna Women's Cup Final ⚽",
+    "nbr_subscribers": 1,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-27T08:16:02.116Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-05-28T13:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-23T08:21:03.131Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Dust off your tetrimino skills and get ready for the ultimate Tetris showdown where falling blocks meet pixelated glory in an epic clash of strategy and speed. \r\n\r\n### Tournament Details: \r\n- **Date**: Wednesday, May 28th \r\n- **Time**: 15:00 - 16:00 \r\n- **Platform**: Tetr.io \r\n- **Location**: tba \r\n\r\n### Prizes: \r\n🌟 Everyone will earn coalition points based on their ranking. 😊",
+    "end_at": "2025-05-28T14:00:00.000Z",
+    "id": 32338,
+    "kind": "event",
+    "location": "Galaxy (rows 7 & 8)",
+    "max_people": 20,
+    "name": "Tetris Coalition Tournament 🕹",
+    "nbr_subscribers": 18,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-28T09:29:16.090Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-05-27T16:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-23T12:12:16.460Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "[Barbara](https://profile.intra.42.fr/users/astehl) want to invite everyone to another fun Game Night with Board-/Card- and Dice-Games! \r\n\r\nIf someone wants to look at Barbara's collection, you can find it here: https://boardgamegeek.com/collection/user/MoriaProfa?own=1&subtype=boardgame&ff=1 \r\n\r\nOn the top on the left there is the possibility to get a Large Gallery Mode thats recommended to use. Most of the titles are German, but many of the games are also playable without any knowledge of German (except for those with much text). You are very welcomed to message Barbara on Discord if you have any questions about a special game, if she should check one for playability without knowing German and/or of course if you wish to play it so she should bring it! Lets have some (more) fun together!",
+    "end_at": "2025-05-27T19:00:00.000Z",
+    "id": 32359,
+    "kind": "association",
+    "location": "Base Camp",
+    "max_people": 20,
+    "name": "Game Night: Board-/Card-/Dice-Games 🎲",
+    "nbr_subscribers": 3,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-23T12:12:16.470Z",
+    "waitlist": {
+      "created_at": "2025-05-23T12:12:16.479Z",
+      "id": 18850,
+      "updated_at": "2025-05-23T12:12:16.479Z",
+      "waitlistable_id": 32359,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-05-27T13:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-22T12:59:54.240Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Interested in playing magic the gathering? Come and join us in the chill room at 15.00.\r\n\r\nThere will be premade decks for learning and beginners. If you want a challenge at 16.00 we will be playing MTG draft Dragonstorm. Join our [discord group](https://discord.com/channels/1026201148803260527/1364968716231639141/1365259232668291132) for more info.",
+    "end_at": "2025-05-27T15:00:00.000Z",
+    "id": 32326,
+    "kind": "association",
+    "location": "Chill Room ",
+    "max_people": 10,
+    "name": "Magic The Gathering 🪄",
+    "nbr_subscribers": 4,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-22T13:00:18.769Z",
+    "waitlist": {
+      "created_at": "2025-05-22T12:59:54.264Z",
+      "id": 18826,
+      "updated_at": "2025-05-22T12:59:54.264Z",
+      "waitlistable_id": 32326,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-05-26T14:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-23T10:54:27.232Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "This is the first event of the table top club, where we will be meeting and seeing if enough people join to start our own 42 Campaign. We will be also discussing various types of table top games and see which one everyone is most comfortable with.\r\n\r\nBeginners are welcome, so don't be shy if your interested.",
+    "end_at": "2025-05-26T15:00:00.000Z",
+    "id": 32352,
+    "kind": "association",
+    "location": "Chill Room ",
+    "max_people": 12,
+    "name": "Table Top Club 🧙‍♂️",
+    "nbr_subscribers": 7,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-23T10:54:27.243Z",
+    "waitlist": {
+      "created_at": "2025-05-23T10:54:27.251Z",
+      "id": 18844,
+      "updated_at": "2025-05-23T10:54:27.251Z",
+      "waitlistable_id": 32352,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-05-26T12:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-23T08:02:48.043Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Community Meeting where the Bocal will be sharing important information and you will get to ask questions that you may have and express your feedback to the 42 Vienna Bocal team. \r\n\r\nYou can read the last meeting's recap on [Disord](https://discord.com/channels/1026201148803260527/1262389284162375770/1374030711740301503).\t",
+    "end_at": "2025-05-26T13:00:00.000Z",
+    "id": 32337,
+    "kind": "meet_up",
+    "location": "Summit ",
+    "max_people": null,
+    "name": "Community Meeting 📢",
+    "nbr_subscribers": 1,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-23T08:02:48.052Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-05-26T11:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-02T09:04:04.018Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "This time, we will be visiting the Headquarters of EVVA in Vienna. \r\n\r\n### What is a Learning Journey? \r\nLearning Journeys are a great opportunity to have a first-person experience at one of our partners. Join us for a tour of the headquarters, some insights about their work and interesting discussions valuable for your future! \r\n\r\n### When is it going to take place? \r\nMonday, May 26th from 13:00 to 16:00 \r\n\r\n### Program: \r\n- Reception & Welcome: EVVA company presentation\r\n- Factory tour in two groups: German and English\r\n- Knowledge Sharing: Security in the context of digital product development\r\n\t- Pillars of Information Security\r\n\t\t\r\n\t\t• Authenticity\r\n\t\t\r\n\t\t• Integrity\r\n\t\t\r\n\t\t• Confidentiality\r\n\t\r\n\t\t• Non-Repudiation\r\n\r\n\t\t• Availability\r\n\r\n\t- User View/Developer View/Ops View\r\n\t- SecDevOps\r\n\t- Topics involved:\r\n\r\n\t\t• CVE's\r\n\r\n\t\t• Secrets Management\r\n\r\n\t\t• Security by design\r\n\r\n\t\t• Privacy by design\r\n\r\n\t\t• Impact of compliance (GDPR CRA/NIS2, EN18031-1)\r\n\r\n- Questions, conclusion, reflection, feedback\r\n\r\n### More info about EVVA: \r\nEVVA Sicherheitstechnologie GmbH, founded in 1919 in Vienna, is an Austrian security technology manufacturer for mechanical and electronic locking systems and access controls. The company holds more than 200 national and international patents and has 10 branches all over Europe.\r\n\r\n### How do I join? \r\nSimply subscribe to the event on the intranet. As always, registrations are on a first come-first serve basis and require active participation (See [Event Attendance rules](https://meta.intra.42.fr/articles/event-attendance)). Please unsubscribe or contact the Bocal if you can no longer come.",
+    "end_at": "2025-05-26T14:00:00.000Z",
+    "id": 31838,
+    "kind": "event",
+    "location": "Wienerbergstraße 59–65, 1120 Wien",
+    "max_people": 20,
+    "name": "Learning Journey | EVVA",
+    "nbr_subscribers": 20,
+    "prohibition_of_cancellation": 120,
+    "themes": [],
+    "updated_at": "2025-05-02T13:59:04.933Z",
+    "waitlist": {
+      "created_at": "2025-05-06T09:29:46.602Z",
+      "id": 18561,
+      "updated_at": "2025-05-06T09:29:46.602Z",
+      "waitlistable_id": 31838,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-05-23T15:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-16T12:37:47.840Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "⚠️**THIS EVENT IS CANCELLED DUE TO BAD WEATHER**⚠️\r\n\r\nWe'll have a bbq party on Donauinsel if the weather is good. \r\n\r\nPlease bring food and drinks! 😁",
+    "end_at": "2025-05-23T19:00:00.000Z",
+    "id": 32192,
+    "kind": "event",
+    "location": "Donauinsel",
+    "max_people": 0,
+    "name": "[CANCELLED] BBQ Party 🎉🥩🔥🍷☀️ (if weather permits)",
+    "nbr_subscribers": 5,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-19T12:42:53.527Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-05-22T13:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-15T10:38:40.142Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Another episode of the saga:\r\n\r\n\"Is that your yogurt or a science experiment? 🔬🧁\" and \"Your locker misses you. Collect your stuff before the great cleanse begins!\" 💔📚\r\n\r\n### For a faster clean-up of the fridges and kitchen cabinet, PLEASE COMPLETELY EMPTY THE FRIDGES AND CABINET, EVERYTHING THAT'S STILL INSIDE WILL BE DISPOSED OF or donated to the community!!!\r\n\r\nIf you want to keep your locker, please DM me (Marta 🌞) the locker number.",
+    "end_at": "2025-05-22T15:00:00.000Z",
+    "id": 32135,
+    "kind": "challenge",
+    "location": "Basecamp",
+    "max_people": 0,
+    "name": "Fridge and Kitchen cabinet and Lockers cleaning 🫧 (just a reminder)",
+    "nbr_subscribers": 0,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-15T10:38:40.153Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-05-22T12:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-16T09:14:20.153Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Join [Ka Hou](https://profile.intra.42.fr/users/kfan) to discuss all things music (and maybe start a 42 band! 😁).",
+    "end_at": "2025-05-22T13:00:00.000Z",
+    "id": 32176,
+    "kind": "association",
+    "location": "Chill Room ",
+    "max_people": null,
+    "name": "Music Club 🎸",
+    "nbr_subscribers": 3,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-16T09:14:20.162Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-05-21T16:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-16T08:07:17.581Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "⚠️**THIS EVENT IS CANCELLED**⚠️\r\n\r\nLet's have some fun and play \"Werwolves of Miller's Hollow\" together - with the \"Best of Werwolves of Miller's Hollow\"-Edition.\r\n\r\nThe organizer, [Barbara](https://profile.intra.42.fr/users/astehl), will explain everything but if anyone wants to prepare, here is a rulebook (with even more roles than we will have, could not find an English rulebook for the \"Best of\"-Edition): https://cdn.svc.asmodee.net/production-asmodeeca/uploads/2023/07/WerewolvesThePact_EN_Rules.pdf\t",
+    "end_at": "2025-05-21T21:42:00.000Z",
+    "id": 32166,
+    "kind": "association",
+    "location": "Summit ",
+    "max_people": 0,
+    "name": "[CANCELLED] Game Night: Best of Werewolves of Miller's Hollow 🐺",
+    "nbr_subscribers": 5,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-21T14:57:44.204Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-05-21T14:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-16T12:17:09.576Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Our usual place the [Strandbad](https://maps.app.goo.gl/wFkGjeb1cU16M9m36) is open again so it's time for a proper beachvolleyball season start. \r\n\r\nWe'll be leaving from school at 15:45 or you can join us later there.\r\n\r\n*Note: The entry fee to the Strandbad is 4,60€.*\r\n\r\nAt 19:30, when the place closes, we’ll head to [USUS um Wasser](https://maps.app.goo.gl/Hw8bBgLzt1MDDynz8) to keep the fun going! Grab drinks from the bar or bring your own, and we’ll chill out by the riverside. It’s the perfect chance to unwind, make new friends, and enjoy the evening by the water.\r\n\r\nYou can also take a dip in the Donau here. 🌊\r\n\r\nAlso, if you are interested in playing more Volleyball with your peers, please fill out the following form to determine which day would be best for weekly Volleyball practice: https://forms.gle/rXJracBcQLXpGMu89 ",
+    "end_at": "2025-05-21T20:00:00.000Z",
+    "id": 32189,
+    "kind": "association",
+    "location": "Arbeiterstrandbadstraße 91, 1220 Wien",
+    "max_people": 42,
+    "name": "🏐🌊 Beachvolleyball 👙🍻",
+    "nbr_subscribers": 4,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-19T12:43:24.233Z",
+    "waitlist": {
+      "created_at": "2025-05-16T12:17:09.599Z",
+      "id": 18727,
+      "updated_at": "2025-05-16T12:17:09.599Z",
+      "waitlistable_id": 32189,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-05-21T14:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-16T08:06:03.201Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Join a relaxing yoga session with [Daniel](https://profile.intra.42.fr/users/dplotzl) in the Summit Room! \r\n\r\nYoga mats are available; however, we have a limited number of them, so you can also bring your own. Also, don't forget to bring a towel! 😁",
+    "end_at": "2025-05-21T15:00:00.000Z",
+    "id": 32165,
+    "kind": "association",
+    "location": "Summit ",
+    "max_people": 14,
+    "name": "Yoga with Daniel 🧘",
+    "nbr_subscribers": 5,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-16T08:06:03.212Z",
+    "waitlist": {
+      "created_at": "2025-05-16T08:06:03.219Z",
+      "id": 18716,
+      "updated_at": "2025-05-16T08:06:03.219Z",
+      "waitlistable_id": 32165,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-05-21T10:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-09T09:02:18.829Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "As part of the Career Week event, some small conferences with experts from the corporate partners and 42 students who are currently working will take place. These short talks will focus on company presentations, job profiles, etc... The aim is to give you the opportunity to get to know our corporate partners and get a better overview of what you can do after 42.  \r\n\r\n### Event Description: \r\nFour Junior Developers from [ACL](https://www.acl.at/), [Fronius](https://www.fronius.com/de-at/austria), [Welser profile](https://www.welser.com/en) and [Beko](https://beko.at/) will come on campus to describe their everyday work and answer all of your questions. You'll be able to get a direct insight into the work of (Full Stack, Web) Software Developer. \r\n\r\n### About the speakers: \r\n\r\nThe four following developers will be joining the event:\r\n\r\n- [Jonas Lorenz](https://www.linkedin.com/in/lorenz-jonas/), ACL\r\n- Clemens Zehetner, FRONIUS\r\n- [Jasmina Sasse](https://www.linkedin.com/in/jasmina-sasse-1a78a714a/), WELSER PROFILE\r\n- Stefan Neuhauser, BEKO\r\n\r\n### How do I join? \r\nSimply subscribe to the event on the intranet. As always, registrations require active participation (See Event Attendance rules [here](https://meta.intra.42.fr/articles/event-attendance)). Please unsubscribe within the deadline or contact the Bocal if you can no longer come.\t",
+    "end_at": "2025-05-21T10:30:00.000Z",
+    "id": 32010,
+    "kind": "event",
+    "location": "Summit ",
+    "max_people": null,
+    "name": "Career Week 💼One Working Day @ ACL / Fronius / Welser Profile / Beko",
+    "nbr_subscribers": 15,
+    "prohibition_of_cancellation": 48,
+    "themes": [],
+    "updated_at": "2025-05-20T06:50:21.686Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-05-21T08:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-09T08:55:26.148Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "As part of the Career Week event, some small conferences with experts from the corporate partners and 42 students who are currently working will take place. These short talks will focus on company presentations, job profiles, etc... The aim is to give you the opportunity to get to know our corporate partners and get a better overview of what you can do after 42. \r\n\r\n### Event Description: \r\n [EVN](https://www.evn.at/), Programmierfabrik and [Welser Profile](https://www.welser.com/en) will be introducing themselves (in English) to all of you. You will of course also get the chance to ask them questions. \r\n\r\nAfterwards, you'll get the opportunity to meet with the HR team of Programmierfabrik in 1:1 meetings, where you'll to personally introduce yourselves to them and get some valuable career coaching tips. \r\n\r\n*Please note that good German-speaking skills are required to meet with this company.*\r\n\r\n### 1:1 Meetings\r\nThe 1:1 meetings will take place from 11:30 to 12:30 on both Tuesday, May 20th and Wednesday, May 21st. The following companies will take part:\r\n\r\n- [WienIT](https://www.wienit.at/)\r\n- [Raiffeisen Bank International](https://www.rbinternational.com/en/raiffeisen.html)\r\n- [KPMG Austria](https://kpmg.com/at/de/home.html)\r\n- [Raiffeisen Landesbank](https://www.raiffeisen.at/ooe/rlb/de/meine-bank.html)\r\n- [Raitec](https://www.raitec.at/de/home.html)\r\n- [EVVA](https://www.evva.com/at-de/)\r\n- [Programmierfabrik](https://programmierfabrik.at/)\r\n\r\nIf you would like to meet up with them, please comment your full name in an empty slot in the [sign up sheet](https://docs.google.com/spreadsheets/d/1nmF5T35p_v4LjKr92v2TYyarmRkFGFvQ_gqLW37tYL8/edit?usp=sharing). **Please make sure to check out the companies' websites before signing up to check out their job offers and/or learn more about what they do.**\r\n\r\n⚠️**The 1:1 meetings are only for students from cohorst 1 to 4!** Students from Cohort 5 are still of course invited to join the other events that will take place during Career Week.⚠️\r\n\r\n### How do I join? \r\nSimply subscribe to the event on the intranet. As always, registrations require active participation (See Event Attendance rules [here](https://meta.intra.42.fr/articles/event-attendance)). Please unsubscribe within the deadline or contact the Bocal if you can no longer come.",
+    "end_at": "2025-05-21T09:30:00.000Z",
+    "id": 32007,
+    "kind": "event",
+    "location": "Summit ",
+    "max_people": null,
+    "name": "Career Week 💼 Meet the companies: EVN / Programmierfabrik / Welser Profile",
+    "nbr_subscribers": 16,
+    "prohibition_of_cancellation": 48,
+    "themes": [],
+    "updated_at": "2025-05-19T10:43:12.055Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-05-20T10:30:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-09T08:58:42.521Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "As part of the Career Week event, some small conferences with experts from the corporate partners and 42 students who are currently working will take place. These short talks will focus on company presentations, job profiles, etc... The aim is to give you the opportunity to get to know our corporate partners and get a better overview of what you can do after 42.  \r\n\r\n### Event Description: \r\n[Viktoria](https://profile.intra.42.fr/users/vschneid) (R-IT) and [Balint](https://profile.intra.42.fr/users/bgroz) (RBI) will be sharing their experience working for our partners and answering any questions that you might have. \r\n\r\n### How do I join? \r\nSimply subscribe to the event on the intranet. As always, registrations require active participation (See Event Attendance rules [here](https://meta.intra.42.fr/articles/event-attendance)). Please unsubscribe within the deadline or contact the Bocal if you can no longer come. Summit Room",
+    "end_at": "2025-05-20T11:00:00.000Z",
+    "id": 32008,
+    "kind": "event",
+    "location": "Summit ",
+    "max_people": null,
+    "name": "Career Week 💼Students' Talk",
+    "nbr_subscribers": 24,
+    "prohibition_of_cancellation": 48,
+    "themes": [],
+    "updated_at": "2025-05-15T14:48:34.103Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-05-20T08:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-09T08:43:00.911Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "As part of the Career Week event, some small conferences with experts from the corporate partners and 42 students who are currently working will take place. These short talks will focus on company presentations, job profiles, etc... The aim is to give you the opportunity to get to know our corporate partners and get a better overview of what you can do after 42. \r\n\r\n### Event Description: \r\nThe event will first start with a welcome speech from Tatjana, then our new corporate partners [Verbund](https://www.verbund.com/en), Raiffeisen Landesbank Oberösterreich and RAITEC will be introducing themselves (in English) to all of you. You will of course also get the chance to ask them questions. \r\n\r\nAfterwards, you'll get the opportunity to meet with the HR team of Raiffeisen Landesbank Oberöstereich and RAITEC in 1:1 meetings, where you'll to personally introduce yourselves to them and get some valuable career coaching tips. \r\n\r\n*Please note that good German-speaking skills are required to meet with these two companies.*\r\n\r\n### 1:1 Meetings\r\nThe 1:1 meetings will take place from 11:30 to 12:30 on both Tuesday, May 20th and Wednesday, May 21st. The following companies will take part:\r\n\r\n- [WienIT](https://www.wienit.at/)\r\n- [Raiffeisen Bank International](https://www.rbinternational.com/en/raiffeisen.html)\r\n- [KPMG Austria](https://kpmg.com/at/de/home.html)\r\n- [Raiffeisen Landesbank](https://www.raiffeisen.at/ooe/rlb/de/meine-bank.html)\r\n- [Raitec](https://www.raitec.at/de/home.html)\r\n- [EVVA](https://www.evva.com/at-de/)\r\n- [Programmierfabrik](https://programmierfabrik.at/)\r\n\r\nIf you would like to meet up with them, please comment your full name in an empty slot in the [sign up sheet](https://docs.google.com/spreadsheets/d/1nmF5T35p_v4LjKr92v2TYyarmRkFGFvQ_gqLW37tYL8/edit?usp=sharing). **Please make sure to check out the companies' websites before signing up to check out their job offers and/or learn more about what they do.**\r\n\r\n⚠️**The 1:1 meetings are only for students from cohorst 1 to 4!** Students from Cohort 5 are still of course invited to join the other events that will take place during Career Week.⚠️\r\n\r\n### How do I join? \r\nSimply subscribe to the event on the intranet. As always, registrations require active participation (See Event Attendance rules [here](https://meta.intra.42.fr/articles/event-attendance)). Please unsubscribe within the deadline or contact the Bocal if you can no longer come.",
+    "end_at": "2025-05-20T09:00:00.000Z",
+    "id": 32005,
+    "kind": "event",
+    "location": "Summit ",
+    "max_people": null,
+    "name": "Career Week 💼 Meet the companies: Verbund / RLB OÖ / Raitec",
+    "nbr_subscribers": 24,
+    "prohibition_of_cancellation": 48,
+    "themes": [],
+    "updated_at": "2025-05-16T13:15:38.574Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-05-19T12:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-16T08:04:32.157Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Community Meeting where the Bocal will be sharing important information and you will get to ask questions that you may have and express your feedback to the 42 Vienna Bocal team. \r\n\r\nYou can read the last meeting's recap on [Disord](https://discord.com/channels/1026201148803260527/1262389284162375770/1371482146514141376).",
+    "end_at": "2025-05-19T13:00:00.000Z",
+    "id": 32164,
+    "kind": "meet_up",
+    "location": "Summit ",
+    "max_people": null,
+    "name": "Community Meeting 📢",
+    "nbr_subscribers": 3,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-16T08:04:32.166Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-05-16T13:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-04-25T07:53:04.306Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "This is the end of the Geocaching Contest! Hopefully you had fun discovering the green areas of Vienna and found a ton of caches. It is now time to find out who won! \r\n\r\n### How will the Ending Ceremony go? \r\nWe will go over the scores and award the winner teams. \r\n\r\n### Prizes \r\n- **1st Place:** Geocaching Winner Achievement + 500 Coalition Points + 75 Altairian Dollars + Intranet Title \r\n- **2nd Place:** 250 Coalition points + 50 Altairian Dollars \r\n- **3rd Place:** 125 Coalition Points + 25 Altairian Dollars \r\n\r\nEach participant will also receive a **Geocaching Achievement**.\tSummit",
+    "end_at": "2025-05-16T14:00:00.000Z",
+    "id": 31700,
+    "kind": "challenge",
+    "location": "Summit",
+    "max_people": null,
+    "name": "Geocaching Contest | Ending Ceremony",
+    "nbr_subscribers": 4,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-04-25T07:53:04.317Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-05-14T14:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-04-25T07:45:49.345Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "It's picture day! 🎉 \r\n\r\nIt's time to get your professional portraits shot. The new photo will be used in the Intranet and you'll also be able to use it on your CV and social media as well. There will be four different time slots available, divided into the two following days: \r\n\r\n- 📸 Monday, May 5th from 10:00 to 11:00 and 11:00 to 12:00 \r\n- 📸 Wednesday, May 14th from 15:00 to 16:00 and 16:00 to 17:00 \r\n\r\nPlease subscribe to only one of the events, so that everybody can get a spot. Your subscription to the event is considered a confirmation. No shows or multiple subscriptions will be granted a **community service**! \r\n\r\n⚠️ **This event is mandatory! If you cannot join any of the time slots, please open an issue or contact Drucilla. Students from Cohort 1, 2, 3 and 4 who couldn't get their pictures taken before and students who bought the New Intra Picture item on the shop are also invited to join.** Please wear appropriate clothing (ideally business or business casual). 👔",
+    "end_at": "2025-05-14T15:00:00.000Z",
+    "id": 31698,
+    "kind": "event",
+    "location": "Summit",
+    "max_people": 20,
+    "name": "Student Portraits 📸",
+    "nbr_subscribers": 16,
+    "prohibition_of_cancellation": 48,
+    "themes": [],
+    "updated_at": "2025-05-14T12:32:36.942Z",
+    "waitlist": {
+      "created_at": "2025-04-25T07:45:49.365Z",
+      "id": 18428,
+      "updated_at": "2025-04-25T07:45:49.365Z",
+      "waitlistable_id": 31698,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-05-14T13:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-04-25T07:45:11.657Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "It's picture day! 🎉 \r\n\r\nIt's time to get your professional portraits shot. The new photo will be used in the Intranet and you'll also be able to use it on your CV and social media as well. There will be four different time slots available, divided into the two following days: \r\n\r\n- 📸 Monday, May 5th from 10:00 to 11:00 and 11:00 to 12:00 \r\n- 📸 Wednesday, May 14th from 15:00 to 16:00 and 16:00 to 17:00 \r\n\r\nPlease subscribe to only one of the events, so that everybody can get a spot. Your subscription to the event is considered a confirmation. No shows or multiple subscriptions will be granted a **community service**! \r\n\r\n⚠️ **This event is mandatory! If you cannot join any of the time slots, please open an issue or contact Drucilla. Students from Cohort 1, 2, 3 and 4 who couldn't get their pictures taken before and students who bought the New Intra Picture item on the shop are also invited to join.** Please wear appropriate clothing (ideally business or business casual). 👔",
+    "end_at": "2025-05-14T14:00:00.000Z",
+    "id": 31697,
+    "kind": "event",
+    "location": "Summit",
+    "max_people": 20,
+    "name": "Student Portraits 📸",
+    "nbr_subscribers": 20,
+    "prohibition_of_cancellation": 48,
+    "themes": [],
+    "updated_at": "2025-05-14T12:32:24.015Z",
+    "waitlist": {
+      "created_at": "2025-04-25T07:45:11.674Z",
+      "id": 18427,
+      "updated_at": "2025-04-25T07:45:11.674Z",
+      "waitlistable_id": 31697,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-05-14T12:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-09T14:17:45.169Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "We will share impressions about the first two workshops and collect ideas on possible improvements for future workshops and do the planning for future events. \r\n\r\nIf time allows we can also discuss about non-workshops aspects of \"Hithicker's guide to 42 Vienna\".",
+    "end_at": "2025-05-14T13:00:00.000Z",
+    "id": 32032,
+    "kind": "meet_up",
+    "location": "Chill Room",
+    "max_people": 20,
+    "name": "From Peers for Peers: Reflecting on the recent two peer workshops and future planning",
+    "nbr_subscribers": 7,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-14T11:57:10.425Z",
+    "waitlist": {
+      "created_at": "2025-05-09T14:17:45.193Z",
+      "id": 18638,
+      "updated_at": "2025-05-09T14:17:45.193Z",
+      "waitlistable_id": 32032,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-05-14T07:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-04-18T10:19:50.440Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "We need 4 volunteers (**preferrably women and German speaking**) to help us at the next [WAFF Future Fit Festival - Female First](https://www.waff.at/e/female-first-frauen-beruf-chancen/) which will take place on Wednesday, May 14th. \r\n\r\nYou will of course be rewarded with Altairian Dollars. 😁",
+    "end_at": "2025-05-14T16:30:00.000Z",
+    "id": 31595,
+    "kind": "event",
+    "location": "Ankerbrotfabrik, Absberggasse 27, 1100 Wien",
+    "max_people": 4,
+    "name": "WAFF Future Fit Festival 25 - Female First | Volunteers",
+    "nbr_subscribers": 4,
+    "prohibition_of_cancellation": 48,
+    "themes": [],
+    "updated_at": "2025-04-18T15:39:34.934Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-05-13T16:30:00.000Z",
+    "campus_ids": [
+      1,
+      12,
+      9,
+      13,
+      55,
+      59,
+      58,
+      50,
+      53,
+      44,
+      32,
+      20,
+      30,
+      40,
+      34,
+      36,
+      52,
+      49,
+      51,
+      60,
+      67,
+      65,
+      75,
+      68,
+      69,
+      71,
+      28,
+      26,
+      25,
+      21,
+      56,
+      14,
+      48,
+      43,
+      29,
+      33,
+      35,
+      46,
+      41,
+      47,
+      31,
+      39,
+      37,
+      38,
+      16,
+      22,
+      62,
+      64,
+      57,
+      73
+    ],
+    "created_at": "2025-04-22T07:53:39.064Z",
+    "cursus_ids": [
+      1,
+      21
+    ],
+    "description": "Join us for the 14th edition of the Alumni Fireside Chat — an online conversation (in English) bringing together former 42 students to share their journeys and insights:\n- Marie-Eve HIBAULT, 42 Paris (2013), IT Business Analyst in Paris.\n- Jonas BENNINK BOLT, Codam (2019), Developer at Adyen in Amsterdam.\n\nThe event is taking place on Zoom. You must register at this link to attend 👉 https://zoom.us/webinar/register/7517442917743/WN_Ghs3NM9-QsuzAVgifpygmw\n\nWe look forward to welcoming you to this inspiring talk!",
+    "end_at": "2025-05-13T17:30:00.000Z",
+    "id": 31636,
+    "kind": "meet_up",
+    "location": "Zoom (you must register to attend)",
+    "max_people": null,
+    "name": "Alumni Fireside Chat #14 - Marie-Eve & Jonas",
+    "nbr_subscribers": 668,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-04-22T07:54:44.604Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-05-13T16:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-09T08:13:24.935Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "[Barbara](https://profile.intra.42.fr/users/astehl) want to invite everyone to another fun Game Night with Board-/Card- and Dice-Games! \r\n\r\nIf someone wants to look at Barbara's collection, you can find it here: https://boardgamegeek.com/collection/user/MoriaProfa?own=1&subtype=boardgame&ff=1 \r\n\r\nOn the top on the left there is the possibility to get a Large Gallery Mode thats recommended to use. Most of the titles are German, but many of the games are also playable without any knowledge of German (except for those with much text). You are very welcomed to message Barbara on Discord if you have any questions about a special game, if she should check one for playability without knowing German and/or of course if you wish to play it so she should bring it! Lets have some (more) fun together!",
+    "end_at": "2025-05-13T19:00:00.000Z",
+    "id": 32004,
+    "kind": "association",
+    "location": "Base Camp",
+    "max_people": 20,
+    "name": "Game Night: Board-/Card-/Dice-Games 🎲",
+    "nbr_subscribers": 4,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-09T08:13:24.944Z",
+    "waitlist": {
+      "created_at": "2025-05-09T08:13:24.954Z",
+      "id": 18617,
+      "updated_at": "2025-05-09T08:13:24.954Z",
+      "waitlistable_id": 32004,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-05-13T13:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-12T07:20:40.890Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Interested in playing magic the gathering? Come and join us in the chill room at 15.00 there will be premade decks for learning and beginners. If you want a challenge at 16.00 we will be playing MTG cube or draft. Join our [discord group](https://discord.com/channels/1026201148803260527/1364968716231639141/1365259232668291132) for more info.",
+    "end_at": "2025-05-13T15:00:00.000Z",
+    "id": 32050,
+    "kind": "association",
+    "location": "Chill Room ",
+    "max_people": 10,
+    "name": "Magic The Gathering 🪄",
+    "nbr_subscribers": 8,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-12T07:20:40.901Z",
+    "waitlist": {
+      "created_at": "2025-05-12T07:20:40.908Z",
+      "id": 18650,
+      "updated_at": "2025-05-12T07:20:40.908Z",
+      "waitlistable_id": 32050,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-05-12T12:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-09T08:12:32.535Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Community Meeting where the Bocal will be sharing important information and you will get to ask questions that you may have and express your feedback to the 42 Vienna Bocal team. \r\n\r\nAt the end, you also get the opportunity to discuss with the Student Council. \r\n\r\nYou can read the last meeting's recap on [Disord](https://discord.com/channels/1026201148803260527/1262389284162375770/1368950232792174662).",
+    "end_at": "2025-05-12T13:00:00.000Z",
+    "id": 32003,
+    "kind": "meet_up",
+    "location": "Summit ",
+    "max_people": null,
+    "name": "Community Meeting 📢",
+    "nbr_subscribers": 10,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-09T08:12:32.546Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-05-09T15:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-08T08:36:46.641Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Join fellow Japanese learners to get some practice or exchange experiences! More details in the [#japanese-club](https://discord.com/channels/1026201148803260527/1311711162777342013/1311711162777342013) channel.",
+    "end_at": "2025-05-09T16:00:00.000Z",
+    "id": 31987,
+    "kind": "association",
+    "location": "Chill Room ",
+    "max_people": null,
+    "name": "Language Club 🇯🇵 Japanese ",
+    "nbr_subscribers": 1,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-08T08:37:29.016Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-05-09T13:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-04-25T07:51:55.246Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Join your peers for an exhilarating week of treasure hunting at this upcoming Geocaching event! \r\n\r\n### What is Geocaching? \r\nGeocaching is an outdoor activity that involves using a GPS to search for hidden containers, called \"geocaches,\" in various locations around the world. Geocaching combines elements of treasure hunting, navigation, and outdoor exploration. This time, the theme will be \"Green Vienna\" and will have you discover the green areas and parks around our beautiful city. \r\n\r\n### How will the game go? \r\nWe will first start with an introduction event to explain the rules of the game and form the teams. You will also be given access to a Discord channel with all of the caches that you will need to look for. You will then have a whole week to find as many caches as possible. Each caches are worth a different amount of points depending on difficulty (Easy, Medium and Hard). At the end, the three teams with the most points will get some prizes. 🎁 The game will end on **Friday, May 16th at 15:00**, where we will have another event to announce the winners. \r\n\r\n### Prizes \r\n- **1st Place**: Geocaching Winner Achievement + 500 Coalition Points + 100 Altairian Dollars + Intranet Title \r\n- **2nd Place**: 250 Coalition Points + 75 Altairian Dollars \r\n- **3rd Place**: 125 Coalition Points + 50 Altairian Dollars \r\n\r\nEach participant will also receive a **Geocaching Achievement**.",
+    "end_at": "2025-05-09T14:00:00.000Z",
+    "id": 31699,
+    "kind": "challenge",
+    "location": "Summit",
+    "max_people": null,
+    "name": "Geocaching Contest | 42 Vienna's Treasure Hunt! ",
+    "nbr_subscribers": 9,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-04-25T07:51:55.255Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-05-08T12:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-06T08:20:41.479Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Join [Ka Hou](https://profile.intra.42.fr/users/kfan) to discuss all things music (and maybe start a 42 band! 😁). ",
+    "end_at": "2025-05-08T13:00:00.000Z",
+    "id": 31903,
+    "kind": "association",
+    "location": "Chill Room ",
+    "max_people": null,
+    "name": "Music Club 🎸",
+    "nbr_subscribers": 6,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-06T08:20:41.488Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-05-07T16:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-02T07:38:04.445Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Let's have some fun and play \"Werwolves of Miller's Hollow\" together - with the \"Best of Werwolves of Miller's Hollow\"-Edition. \r\n\r\nThe organizer, [Barbara](https://profile.intra.42.fr/users/astehl), will explain everything but if anyone wants to prepare, here is a rulebook (with even more roles than we will have, could not find an English rulebook for the \"Best of\"-Edition): https://cdn.svc.asmodee.net/production-asmodeeca/uploads/2023/07/WerewolvesThePact_EN_Rules.pdf",
+    "end_at": "2025-05-07T21:42:00.000Z",
+    "id": 31836,
+    "kind": "association",
+    "location": "Summit ",
+    "max_people": 28,
+    "name": "Game Night: Best of Werewolves of Miller's Hollow 🐺",
+    "nbr_subscribers": 7,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-02T07:38:04.454Z",
+    "waitlist": {
+      "created_at": "2025-05-02T07:38:04.470Z",
+      "id": 18514,
+      "updated_at": "2025-05-02T07:38:04.470Z",
+      "waitlistable_id": 31836,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-05-07T14:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-02T07:36:25.768Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Join a relaxing yoga session with [Daniel](https://profile.intra.42.fr/users/dplotzl) in the Summit Room! \r\n\r\nYoga mats are available; however, we have a limited number of them, so you can also bring your own. Also, don't forget to bring a towel! 😁\t",
+    "end_at": "2025-05-07T15:00:00.000Z",
+    "id": 31835,
+    "kind": "association",
+    "location": "Summit ",
+    "max_people": 14,
+    "name": "Yoga with Daniel 🧘",
+    "nbr_subscribers": 2,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-02T07:36:25.777Z",
+    "waitlist": {
+      "created_at": "2025-05-02T07:36:25.792Z",
+      "id": 18513,
+      "updated_at": "2025-05-02T07:36:25.792Z",
+      "waitlistable_id": 31835,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-05-07T06:30:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-03-12T14:26:43.900Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "This time, we will be visiting the Headquarters of Welser Profile in Gresten. \r\n\r\n### What is a Learning Journey?\r\nLearning Journeys are a great opportunity to have a first-person experience at one of our partners. Join us for a tour of the headquarters, some insights about their work and interesting discussions valuable for your future!\r\n\r\n### When is it going to take place?\r\nWednesday, May 7th  from 08:30 to 17:30\r\n\r\n### Program:\r\n- **9:00 – 10:50**: Departure from Campus 🚌\r\n- **11:00**: Arrival at Welser and Welcome\r\n- **11:05 – 11:20**: Short Presentation by Top Management (Vision and Plans for Welser Profile - Benefits of IT)\r\n- **11:20 – 12:15**: Presentation on the topic of IT: Data Science/Data Analytics, e.g. Logistics, AI, etc.*\r\n- **12:15 – 13:00**: Q&A with Welser IT experts\r\n- **13:00 – 13:50**: Lunch Break\r\n- **13:50 – 14:40**: Factory tour\r\n- **14:40 – 15:15**: Wrap-up\r\n- **15:15 – 17:05**: Return to Vienna 🚌\r\n\r\n*What the presentations will be about:\r\n\r\nStefan Rotter:\r\n- Chapter 1: data architecture > Welser data stack\r\n- Chapter 2: date model > Welser knowledge graph\r\n- Chapter 3: data product > Allo-X\r\n\r\nIT (Anton Vorraber, Manuel Krenn, Christian Wallmann): \r\n- IT and Dig  inkl Organization\r\n- Cloudjourney @ Welser\r\n- AI@ Welser\r\n- Q&A\r\n\r\n### More info about Welser Profile:\r\nWelser Profile is a manufacturer of different profile systems made of steel and non-ferrous metals. The company was created in 1664 in Ybbsitzt, Lower Austria and now employs over 2000 people worldwide.\r\n\r\n### How do I join?\r\n\r\nSimply subscribe to the event on the intranet. As always, registrations are on a first come-first serve basis and require active participation (See [Event Attendance rules](https://meta.intra.42.fr/articles/event-attendance)). Please unsubscribe or contact the Bocal if you can no longer come.",
+    "end_at": "2025-05-07T15:30:00.000Z",
+    "id": 30608,
+    "kind": "event",
+    "location": "Gresten, Lower Austria",
+    "max_people": 42,
+    "name": "Learning Journey | Welser Profile",
+    "nbr_subscribers": 32,
+    "prohibition_of_cancellation": 120,
+    "themes": [],
+    "updated_at": "2025-04-24T08:13:44.572Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-05-06T12:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-04-30T09:36:17.084Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "In this workshop, [Thomas](https://profile.intra.42.fr/users/tkolar) will show you the basics of testing your code. \r\n\r\nFirst, we'll look at how Thomas tested his code during the piscine, both as a basic and scrappy way to do it and to demonstrate issues with that basic approach. Then, we'll use the shortcomings we find to motivate Criterion, a bocal-approved (and even bocal-installed!) framework, ie, what you should actually be using.",
+    "end_at": "2025-05-06T13:00:00.000Z",
+    "id": 31801,
+    "kind": "workshop",
+    "location": "Summit ",
+    "max_people": 42,
+    "name": "Peer Workshop | Testing - basic concepts and using Criterion",
+    "nbr_subscribers": 34,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-04-30T09:36:17.199Z",
+    "waitlist": {
+      "created_at": "2025-04-30T09:36:17.210Z",
+      "id": 18487,
+      "updated_at": "2025-04-30T09:36:17.210Z",
+      "waitlistable_id": 31801,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-05-05T12:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-05-02T07:35:29.133Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "Community Meeting where the Bocal will be sharing important information and you will get to ask questions that you may have and express your feedback to the 42 Vienna Bocal team. \r\n\r\nAt the end, you also get the opportunity to discuss with the Student Council. \r\n\r\nYou can read the last meeting's recap on [Disord](https://discord.com/channels/1026201148803260527/1262389284162375770/1366685549905313792).",
+    "end_at": "2025-05-05T13:00:00.000Z",
+    "id": 31834,
+    "kind": "meet_up",
+    "location": "Summit ",
+    "max_people": null,
+    "name": "Community Meeting 📢",
+    "nbr_subscribers": 13,
+    "prohibition_of_cancellation": null,
+    "themes": [],
+    "updated_at": "2025-05-02T07:35:29.143Z",
+    "waitlist": null
+  },
+  {
+    "begin_at": "2025-05-05T09:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-04-25T07:44:35.318Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "It's picture day! 🎉 \r\n\r\nIt's time to get your professional portraits shot. The new photo will be used in the Intranet and you'll also be able to use it on your CV and social media as well. There will be four different time slots available, divided into the two following days: \r\n\r\n- 📸 Monday, May 5th from 10:00 to 11:00 and 11:00 to 12:00 \r\n- 📸 Wednesday, May 14th from 15:00 to 16:00 and 16:00 to 17:00 \r\n\r\nPlease subscribe to only one of the events, so that everybody can get a spot. Your subscription to the event is considered a confirmation. No shows or multiple subscriptions will be granted a **community service**! \r\n\r\n⚠️ **This event is mandatory! If you cannot join any of the time slots, please open an issue or contact Drucilla. Students from Cohort 1, 2, 3 and 4 who couldn't get their pictures taken before and students who bought the New Intra Picture item on the shop are also invited to join.** Please wear appropriate clothing (ideally business or business casual). 👔",
+    "end_at": "2025-05-05T10:00:00.000Z",
+    "id": 31696,
+    "kind": "event",
+    "location": "Summit ",
+    "max_people": 20,
+    "name": "Student Portraits 📸",
+    "nbr_subscribers": 13,
+    "prohibition_of_cancellation": 48,
+    "themes": [],
+    "updated_at": "2025-05-05T07:45:47.312Z",
+    "waitlist": {
+      "created_at": "2025-04-25T07:44:35.339Z",
+      "id": 18426,
+      "updated_at": "2025-04-25T07:44:35.339Z",
+      "waitlistable_id": 31696,
+      "waitlistable_type": "Event"
+    }
+  },
+  {
+    "begin_at": "2025-05-05T08:00:00.000Z",
+    "campus_ids": [
+      53
+    ],
+    "created_at": "2025-04-25T07:44:03.052Z",
+    "cursus_ids": [
+      21
+    ],
+    "description": "It's picture day! 🎉 \r\n\r\nIt's time to get your professional portraits shot. The new photo will be used in the Intranet and you'll also be able to use it on your CV and social media as well. There will be four different time slots available, divided into the two following days: \r\n\r\n- 📸 Monday, May 5th from 10:00 to 11:00 and 11:00 to 12:00 \r\n- 📸 Wednesday, May 14th from 15:00 to 16:00 and 16:00 to 17:00 \r\n\r\nPlease subscribe to only one of the events, so that everybody can get a spot. Your subscription to the event is considered a confirmation. No shows or multiple subscriptions will be granted a **community service**! \r\n\r\n⚠️ **This event is mandatory! If you cannot join any of the time slots, please open an issue or contact Drucilla. Students from Cohort 1, 2, 3 and 4 who couldn't get their pictures taken before and students who bought the New Intra Picture item on the shop are also invited to join.** Please wear appropriate clothing (ideally business or business casual). 👔",
+    "end_at": "2025-05-05T09:00:00.000Z",
+    "id": 31695,
+    "kind": "event",
+    "location": "Summit",
+    "max_people": 20,
+    "name": "Student Portraits 📸",
+    "nbr_subscribers": 19,
+    "prohibition_of_cancellation": 48,
+    "themes": [],
+    "updated_at": "2025-05-05T07:45:31.596Z",
+    "waitlist": {
+      "created_at": "2025-04-25T07:44:03.071Z",
+      "id": 18425,
+      "updated_at": "2025-04-25T07:44:03.071Z",
+      "waitlistable_id": 31695,
+      "waitlistable_type": "Event"
+    }
+  }
+]
