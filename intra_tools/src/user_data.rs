@@ -6,7 +6,7 @@
 /*   By: dpotsch <poetschdavid@gmail.com>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/07/24 12:34:20 by dpotsch           #+#    #+#             */
-/*   Updated: 2025/07/24 15:42:39 by dpotsch          ###   ########.fr       */
+/*   Updated: 2025/07/27 12:11:42 by dpotsch          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,7 @@ use serde_json::Value;
 
 async fn parse_json_data(data: &[Value]) {
   let data = flatten_json_arrays(data);
-  write_json_to_file("rawout.json", &data);
+  write_json_to_file("raw_user_data.json", &data);
 }
 
 pub async fn user_data(api: &mut Intra42Api) {

@@ -1,3 +1,12 @@
 **/target/
 **/.DS_Store
 .env
+
+raw_event_users.json
+event_users.txt
+raw_events.json
+events.txt
+raw_project_user_data.json
+project_user_data.txt
+raw_user_data.json
+user_data.txt

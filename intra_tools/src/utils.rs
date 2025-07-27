@@ -6,7 +6,7 @@
 /*   By: dpotsch <poetschdavid@gmail.com>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/07/23 10:41:38 by dpotsch           #+#    #+#             */
-/*   Updated: 2025/07/24 16:50:22 by dpotsch          ###   ########.fr       */
+/*   Updated: 2025/07/27 12:15:49 by dpotsch          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,6 +14,7 @@ use serde_json::Value;
 use std::fs::File;
 use std::io::Write;
 
+/// ### Should turn the json pages array into one json value
 pub fn flatten_json_arrays(data: &[Value]) -> Value {
   let mut combined = Vec::new();
 
